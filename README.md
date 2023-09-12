@@ -1,10 +1,10 @@
-# Título do Projeto
+# EASY MENU
 
 `CURSO`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
@@ -13,9 +13,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Nome completo do aluno 1
 * Nome completo do aluno 2
 * Nome completo do aluno 3
-* Nome completo do aluno 4
+* Naiana Mendonça Coelho
 * Nome completo do aluno 5
-* Nome completo do aluno 6
 
 ## Orientador
 
