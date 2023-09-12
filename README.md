@@ -10,15 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Amanda Paula Oliveira Silva
+* Fernanda Alice Martins Soares
+* João Victor Braga Zacarias
 * Naiana Mendonça Coelho
-* Nome completo do aluno 5
-
+* Talysson Moraes Lourenço de Oliveira
+  
 ## Orientador
 
-* Nome completo do professor
+* Joyce Christina de Paiva Carvalho
 
 # Documentação
 
