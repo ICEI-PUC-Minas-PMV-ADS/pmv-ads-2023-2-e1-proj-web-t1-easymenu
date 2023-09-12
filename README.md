@@ -6,7 +6,7 @@
 
 `1º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O Sistema de Cardápios Personalizáveis para Restaurantes visa trazer inovação e comodidade à indústria de restaurantes, capacitando tanto os clientes quanto os estabelecimentos a aproveitar ao máximo as vantagens da tecnologia moderna. Com a capacidade de explorar cardápios detalhados, personalizar pedidos de acordo com as preferências individuais e efetuar transações sem complicações, nosso sistema tem como objetivo elevar a experiência gastronômica a um novo patamar. Estamos empolgados em enfrentar esse desafio de desenvolvimento e esperamos criar uma solução que beneficie restaurantes e clientes igualmente.
 
 ## Integrantes
 
