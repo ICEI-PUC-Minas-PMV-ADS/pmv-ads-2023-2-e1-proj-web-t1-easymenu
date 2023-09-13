@@ -54,23 +54,35 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
+
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |A programação deverá incluir a possibilidade de acrescentar ou alterar itens do produto pelo cliente|Alta| 
+| RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, tópicos da sua lista de produtos ofertados|Alta|
+| RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente|Alta|
+| RF-04 |Permitir que seja possível incorporar imagens com facilidade|Alta|
+| RF-05 |O site deve exibir o valor total do pedido após ser selecionado os pratos pelo cliente|Média|
+| RF-06 |A aplicação deve permitir a avalição do serviço|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
+
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 | O sistema deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
+| RNF-02 | Menu com disponibilização de fotos em cada item e divisões por categoria|Média|
+| RNF-03 | Sistema para o cliente deve ser aberto por QR CODE|Alta|
+| RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Alta|
+| RNF-05 | O sistema deve pedir senha para o administrador acessar|Alta|
+| RNF-06 | O sistema deve ter vários níveis de senha para acessos. Exemplo: Os clientes não devem ter acesso às informações por completo do painel Administrador|Alta|
+| RNF-07 | O cardápio digital deve carregar rapidamente, proporcionando uma experiência de usuário ágil|Alta|
+| RNF-08 | Deve ser acessível para pessoas com deficiência, atendendo a padrões de acessibilidade da web|Média|
+| RNF-09 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
+| RNF-10 | O site deve conter categoria de alimentos bem divididas|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
