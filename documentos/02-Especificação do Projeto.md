@@ -73,7 +73,7 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-|     RNF-01     | O sistema deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
+| RNF-01 | O sistema deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
 | RNF-02 | Menu com disponibilização de fotos em cada item e divisões por categoria|Média|
 | RNF-03 | Sistema para o cliente deve ser aberto por QR CODE|Alta|
 | RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Alta|
