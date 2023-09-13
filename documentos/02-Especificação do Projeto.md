@@ -41,16 +41,16 @@
 |--------------------|---------------------------|----------------------------------|
 | Cliente            | Personalização dos itens|Adaptar ao meu gosto|
 | Proprietário       | Um cardápio passível de edição e interativo|Para alterar os produtos disponíveis|
-| Proprietário       |Um cardápio digital passível de fazer feedbacks e avaliações|Poder ter controle de quantidades de pedidos, pratos mais consumidos e fazer melhorias em benefício do cliente.                        |
+| Proprietário|Um cardápio digital passível de fazer feedbacks e avaliações|Poder ter controle de quantidades de pedidos, pratos mais consumidos e fazer melhorias em benefício do cliente.                        |
 | Cliente            |Um menu de fácil uso, visualização clara e rapidez nos pedidos|Ter a melhor experiência possível que o estabelecimento pode oferecer|
-| Cliente|Visualizar imagens reais dos produtos oferecidos| Para fazer uma escolha mais assertiva e trazer uma ideia mais real do produto|
-| Cliente|Autonomia na visualização do menu, controle sobre os itens pedidos|Não depender de disponibilidade de atendente|
+| Cliente            |Visualizar imagens reais dos produtos oferecidos| Para fazer uma escolha mais assertiva e trazer uma ideia mais real do produto|
+| Cliente            |Autonomia na visualização do menu, controle sobre os itens pedidos|Não depender de disponibilidade de atendente|
 | Proprietário       |Inovação e estimular o consumo de pratos/sobremesas pouco exploradas|Aumentar o número de vendas de adicionais e sobremesas e acompanhar atualização do mercado|
 
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
+O propósito do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
