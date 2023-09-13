@@ -39,12 +39,13 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cliente            | Personalização dos itens  | Adaptar ao meu gosto             |
+| Cliente            | Personalização dos itens|Adaptar ao meu gosto|
 | Proprietário       | Um cardápio passível de edição e interativo|Para alterar os produtos disponíveis|
 | Proprietário       |Um cardápio digital passível de fazer feedbacks e avaliações|Poder ter controle de quantidades de pedidos, pratos mais consumidos e fazer melhorias em benefício do cliente.                        |
-| Cliente       | ...                       | ...                              |
-| Cliente     | ...                       | ...                              |
-| Proprietário       | ...                       | ...                              |
+| Cliente            |Um menu de fácil uso, visualização clara e rapidez nos pedidos|Ter a melhor experiência possível que o estabelecimento pode oferecer|
+| Cliente|Visualizar imagens reais dos produtos oferecidos| Para fazer uma escolha mais assertiva e trazer uma ideia mais real do produto|
+| Cliente|Autonomia na visualização do menu, controle sobre os itens pedidos|Não depender de disponibilidade de atendente|
+| Proprietário       |Inovação e estimular o consumo de pratos/sobremesas pouco exploradas|Aumentar o número de vendas de adicionais e sobremesas e acompanhar atualização do mercado|
 
 
 ## Requisitos do Projeto
