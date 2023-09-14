@@ -27,11 +27,11 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
 
-New: recebe as tarefas que estão sendo trabalhadas em determinado periodo, ou seja em cada Etapa.
-Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
-In progress: lista das tarefas iniciadas.
-In Review: esta lista representa tarefas realizadas que estão sendo analisadas.
-Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+- New: recebe as tarefas que estão sendo trabalhadas em determinado periodo, ou seja em cada Etapa.
+- Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+- In progress: lista das tarefas iniciadas.
+- In Review: esta lista representa tarefas realizadas que estão sendo analisadas.
+- Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
