@@ -33,6 +33,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - In Review: esta lista representa tarefas realizadas que estão sendo analisadas.
 - Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
+- O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/607 e é apresentado, no estado atual, na figura abaixo:
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/b554c416-9ac8-4701-bf81-203dfef3d9b9)
+
+
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
