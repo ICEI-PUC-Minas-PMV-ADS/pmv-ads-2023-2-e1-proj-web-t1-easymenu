@@ -64,10 +64,15 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
+
   -Editor de código
-  -Ferramentas de comunicação 
+  
+  -Ferramentas de comunicação
+  
   -Ferramentas de desenho de tela(wireframing)
-O editor de código foi escolhido porque possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta para melhor captar as necessidades de nossa solução.  
+  
+O editor de código foi escolhido porque possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta para melhor captar as necessidades de nossa solução.
+
 Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma,apresentadas com o seu propósito na tabela que se segue: 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
