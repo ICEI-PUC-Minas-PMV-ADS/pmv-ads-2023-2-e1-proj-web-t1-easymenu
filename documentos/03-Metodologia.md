@@ -1,7 +1,7 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+A execução bem-sucedida de qualquer projeto requer um planejamento sólido e uma metodologia robusta. Nesta seção, descreveremos a metodologia que será adotada para guiar a equipe na implementação do sistema de cardápios personalizáveis para restaurantes. Além disso, discutiremos a organização da equipe e as ferramentas que serão utilizadas para garantir a eficiência na manutenção dos códigos e outros artefatos do projeto.
 
 
 ## Gerenciamento de Projeto
