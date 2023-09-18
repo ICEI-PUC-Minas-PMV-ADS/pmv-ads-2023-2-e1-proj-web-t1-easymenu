@@ -1,19 +1,17 @@
 # Introdução
 
-No cenário em constante evolução da indústria de restaurantes, o advento da tecnologia transformou fundamentalmente a maneira como os consumidores interagem com os
-restaurantes, bem como desempenham um papel crucial na melhoria da experiência do cliente e na eficiência operacional. 
-Com a era digital, os clientes buscam cada vez mais a comodidade e praticidade para fazerem seus pedidos, especialmente em ambientes onde a personalização desempenha um
-papel importante, como em restaurantes que oferecem opções de ingredientes, adições e substituições. Com esse aumento de demanda, surge a necessidade de um sistema inovador e intuitivo que permita aos clientes explorarem cardápios de restaurantes de forma digital e personalizarem seus pedidos de maneira flexível.
+No cenário em constante evolução da indústria de restaurantes, o advento da tecnologia transformou fundamentalmente a maneira como os consumidores interagem com os restaurantes, bem como desempenham um papel crucial na melhoria da experiência do cliente e na eficiência operacional. 
+Com a era digital, os clientes buscam cada vez mais a comodidade e praticidade para fazerem seus pedidos, especialmente em ambientes onde a personalização desempenha um papel importante, como em restaurantes que oferecem opções de ingredientes, adições e substituições. Com esse aumento de demanda, surge a necessidade de um sistema inovador e intuitivo que permita aos clientes explorarem cardápios de restaurantes de forma digital e personalizarem seus pedidos de maneira flexível.
 
 
 ## Problema
 
-O problema demonstrado se trata da falta de facilidade e interatividade existente entre os clientes e os cardápios fornecidos em estabelecimentos, no qual demonstram ser pouco intuitivo e confusos. Os cardápios na sua forma tradicional impressa, não permitem muitas vezes edição dos itens ou personalizações, ficando os clientes restritos as opções já apresentadas, não permitindo a adequação ao gosto pessoal e a eventual dieta ou restrição alimentar que o cliente possua naquele momento.
+O problema do projeto apresentado se traduz na falta de praticidade e interatividade existente entre os clientes e os cardápios fornecidos em estabelecimentos, no qual demonstram ser engessados e desatualizados. Os cardápios na sua forma tradicional impressa não permite a edição dos produtos ofertados de modo frequente, impedindo que novas ofertas ou pratos sejam possibilitados, a não ser que haja a reescrita do menu e pagamento novamente da impressão dos cardápios. Ainda, dificultam a oferta de personalização dos itens, ficando os clientes restritos as opções já apresentadas, não permitindo a adequação ao gosto pessoal e a eventual dieta ou restrição alimentar que o cliente possua naquele momento.
 
 ## Objetivos
 
-O objetivo principal do projeto consiste em criar uma aplicação web que permita aos clientes visualizarem cardápios de restaurantes e efetuar pedidos de forma conveniente, promovendo uma experiência moderna e satisfatória para o cliente, além de trazer vantagens para os restaurantes. 
- 
+O objetivo geral do projeto consiste em criar uma aplicação web que permita aos clientes visualizarem os cardápios de estabelecimentos de modo virtual, possibilitando ainda que os proprietários dos mesmos mantenham seu menu sempre atualizado, e ainda oferte a seu público a possibilidade de personalização dos pratos disponíveis no cardápio.
+
 Os objetivos específicos do projeto são:
  
 - Facilitar a visualização de cardápios detalhados e possibilitar a personalização de pedidos de acordo com as preferências dos clientes, e que efetuem transações de forma conveniente; 
@@ -34,7 +32,5 @@ Diante dos dados acima elencados, surgiu o nosso interesse em desenvolver um sis
 ## Público-Alvo
 
 A pesquisa O Futuro do Food Service, realizada pela Fispal Food Service e FGV Jr., revelou que dos respondentes da pesquisa, 47% preferem usar o cardápio digital nela também foi mostrado a preferência pelo cardápio digital, nos quais os principais motivos da predileção, foram higiene (24%) e praticidade (23%). Também se mostraram importantes rapidez (16%) e sustentabilidade (16%), este último critério que esperava-se ser mais relevante. Além de descrição detalhada (11%) e fotos de qualidade (8%). Nossa solução será desenvolvida especialmente para atender às necessidades de donos de restaurantes e clientes que pretendem ter maiores possibilidades na inserção de imagem dos pratos, personalização de pedidos, flexibilidade para renovar cardápio, economia, diminuição de erro nos pedidos, atualização de preços e promoções feitas com maior agilidade.
-Ao identificarmos a necessidade de uma ferramenta de fácil uso para auxiliar os restaurantes de pequeno a médio porte, estabelecemos como público-alvo homens e mulheres entre 18 e 45 anos, que costumam frequentar rotineiramente bares e restaurantes e que estão adeptos à modernização, agilidade e que gostam de personalizar o pedido e conhecer melhor os pratos do menu sem nenhum tipo de limitação. Dessa forma, esperamos contribuir para a modernização e facilidade desses empreendimentos, auxiliando-os a tornar os atendimentos mais interativos e autônomos para que se tenha mais economia e sejam feitos pedidos mais assertivos em relação a escolha do cliente.
-Em conclusão, esperamos ajudar a fortalecer a modernização do modelo de atendimento de restaurantes em geral, auxiliando esses empreendimentos a alcançar seus objetivos e trazer melhor experiência para seu cliente.
-
+Ao identificarmos a necessidade de uma ferramenta de fácil uso para auxiliar os restaurantes de pequeno a médio porte, estabelecemos como público-alvo homens e mulheres entre 18 e 45 anos, que costumam frequentar rotineiramente bares e restaurantes e que estão adeptos à modernização, agilidade e que gostam de personalizar o pedido e conhecer melhor os pratos do menu sem nenhum tipo de limitação. 
 
