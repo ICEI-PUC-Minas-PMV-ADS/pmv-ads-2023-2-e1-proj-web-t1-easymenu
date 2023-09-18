@@ -63,9 +63,12 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+As ferramentas empregadas no projeto são:
+  -Editor de código
+  -Ferramentas de comunicação 
+  -Ferramentas de desenho de tela(wireframing)
+O editor de código foi escolhido porque possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta para melhor captar as necessidades de nossa solução.  
+Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma,apresentadas com o seu propósito na tabela que se segue: 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
