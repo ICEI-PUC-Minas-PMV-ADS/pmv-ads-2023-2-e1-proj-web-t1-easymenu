@@ -13,7 +13,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. Desta forma, a equipe está organizada da seguinte maneira:
 
-- Scrum Master: Naina Mendonça Coelho.
+- Scrum Master: Naiana Mendonça Coelho.
 - Product Owner: Talysson Moraes Lourenço de Oliveira.
 - Equipe de Desenvolvimento: Amanda Paula Oliveira Silva, Fernanda Alice Martins Soares, João Victor Braga Zacarias, Naiana Mendonça Coelho, Talysson Moraes Lourenço de Oliveira.
 - Equipe de Design: Amanda Paula Oliveira Silva.
