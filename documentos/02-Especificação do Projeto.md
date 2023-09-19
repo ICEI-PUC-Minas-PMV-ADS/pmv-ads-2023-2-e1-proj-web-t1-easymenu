@@ -23,11 +23,11 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema, adeptos a inovação desejam a dispinibilidade de um cardápio que possibilite edição de seus itens de modo prático e uma diminuição na dependência de funcionários para funcionamento de seu ambiente.  </td>
+<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema, adeptos a inovação desejam a disponibilidade de um cardápio que possibilite edição de seus itens de modo prático e a diminuição na dependência de funcionários para funcionamento de seu ambiente.  </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td> Gerenciamento do cardápio, com possibilidade de adicionar, editar ou remover itens do cardápio, definir preços, ajustar opções de personalização e configurar promoções especiais. Envio de pedidos realizados a cozinha. Geração de informações e relatórios de performance do sistema. Cardápio digital com fotos reais dos pratos e dos ingredientes. </td>
+<td> Gerenciamento do cardápio, com possibilidade de adicionar, editar ou remover itens do cardápio, definir preços, ajustar opções de personalização e configurar promoções especiais. Envio de pedidos realizados a cozinha. Geração de informações e relatórios de performance do sistema. Cardápio digital com fotos reais dos pratos. </td>
 </tr>
   
 </tbody>
@@ -39,14 +39,16 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cliente            | Personalização dos itens|Adaptar ao meu gosto|
-| Proprietário       | Um cardápio passível de edição e interativo|Para alterar os produtos disponíveis|
-| Proprietário|Um cardápio digital passível de fazer feedbacks e avaliações|Poder ter controle de quantidades de pedidos, pratos mais consumidos e fazer melhorias em benefício do cliente.                        |
-| Cliente            |Um menu de fácil uso, visualização clara e rapidez nos pedidos|Ter a melhor experiência possível que o estabelecimento pode oferecer|
+| Cliente            | editar, retirar ou acrescer itens do prato| Adaptar ao meu gosto ou restrição alimentar|
+| Cliente            |Um menu de fácil uso, e com objetividade nos pratos ofertados|Ter uma maior facilidade no entendimento dos produtos|
 | Cliente            |Visualizar imagens reais dos produtos oferecidos| Para fazer uma escolha mais assertiva e trazer uma ideia mais real do produto|
-| Cliente            |Autonomia na visualização do menu, controle sobre os itens pedidos|Não depender de disponibilidade de atendente|
-| Proprietário       |Inovação e estimular o consumo de pratos/sobremesas pouco exploradas|Aumentar o número de vendas de adicionais e sobremesas e acompanhar atualização do mercado|
-
+| Cliente            |Realizar o pedido de modo online| Não depender da disponibilidade de atendente|
+| Cliente            |Visualizar os pedidos já realizados| Ter uma ciência do produtos já consumidos e gastos realizados|
+| Proprietário       | Um cardápio digital passível de edição dos itens e interativo|Para alterar os produtos e categorias disponíveis|
+| Proprietário| Envio dos pedidos de modo online para a cozinha| Não necessitar de um funcionário para anotar os pedidos dos clientes|
+| Proprietário| Histórico dos pedidos realizados por cada mesa| Lançamento dos produtos consumidos e cobrança dos clientes|
+| Proprietário| Aplicação que esteja online full time| Possibilitação de realizar as atividades do estabelecimento em qualquer horário|
+| Proprietário| Sistema que gere relatórios| Identificação dos produtos mais consumidos, desempenho do estabelecimento|
 
 ## Requisitos do Projeto
 
@@ -58,12 +60,14 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |A programação deverá incluir a possibilidade de acrescentar ou alterar itens do produto pelo cliente|Alta| 
-| RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, tópicos da sua lista de produtos ofertados|Alta|
-| RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente|Alta|
-| RF-04 |Permitir que seja possível incorporar imagens com facilidade|Alta|
-| RF-05 |O site deve exibir o valor total do pedido após ser selecionado os pratos pelo cliente|Média|
-| RF-06 |A aplicação deve permitir a avalição do serviço|Média|
+| RF-01 |A aplicação deverá possibilitar o acréscimo ou alteração de itens do produto pelo cliente|Alta| 
+| RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, produtos ou categorias do menu|Alta|
+| RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos|Alta|
+| RF-04 | O sistema deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
+| RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e reenvio a cozinha|Alta|
+| RF-06 |Permitir que seja possível incorporar imagens aos produtos|Média|
+| RF-07 |A aplicação deve possibilitar a inclusão de produtos em oferta por tempo limitado, e após o tempo definido serão retirados automaticamente do sistema |Média|
+| RF-07 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -74,15 +78,11 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 | O sistema deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
-| RNF-02 | Menu com disponibilização de fotos em cada item e divisões por categoria|Média|
-| RNF-03 | Sistema para o cliente deve ser aberto por QR CODE|Alta|
-| RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Alta|
-| RNF-05 | O sistema deve pedir senha para o administrador acessar|Alta|
-| RNF-06 | O sistema deve ter vários níveis de senha para acessos. Exemplo: Os clientes não devem ter acesso às informações por completo do painel Administrador|Alta|
-| RNF-07 | O cardápio digital deve carregar rapidamente, proporcionando uma experiência de usuário ágil|Alta|
-| RNF-08 | Deve ser acessível para pessoas com deficiência, atendendo a padrões de acessibilidade da web|Média|
-| RNF-09 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
-| RNF-10 | O site deve conter categoria de alimentos bem divididas|Média|
+| RNF-02 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
+| RNF-03 | A aplicação deverá permitir seu acesso por QR CODE|Média|
+| RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Média|
+| RNF-05 | Deve ser acessível para pessoas com deficiência, atendendo a padrões de acessibilidade da web|Média|
+| RNF-06 | O cardápio digital deve carregar rapidamente|Baixa|
 
 **Prioridade: Alta / Média / Baixa. 
 
