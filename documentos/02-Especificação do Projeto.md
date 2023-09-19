@@ -6,15 +6,15 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Cliente </th>
+<th colspan="2">Perfil Usuário Final </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px"> Os clientes seriam os usuários finais do sistema, sendo capazes de acessar o cardápio online, possuir total visualização sobre prato escolhido, bebidas e outras opções disponíveis, personalizar os pedidos de acordo com suas preferências (por exemplo, escolher ingredientes, ajustar porções, etc.), acesso ao cardápio com maior agilidade sem depender de terceiros, informações completas e menu atualizado.  </td>
+<td width="600px"> Os clientes seriam os usuários finais do sistema, com acesso o cardápio online, onde possibilitaria a visualização dos produtos ofertados e e realização do seu pedido.  </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td> Facilidade de uso dos cardápios, visualização clara e rapidez na personalização dos seus pedidos. Ter um cardápio digital, possível de personalizar os seus pratos, acrescentar e retirar ingredientes. </td>
+<td> Cardápio digital e intuitivo, produto disponibilizados de modo claro e objetivo, possibilidade de personalização dos itens e realização do pedido de modo online, com agilidade, sem depedência de terceiros. </td>
 </tr>
 <p></p>
 <p></p>
@@ -23,11 +23,11 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema. Eles poderiam adicionar, editar ou remover itens do cardápio, definir preços, ajustar opções de personalização, configurar promoções especiais, analisar dados de pedidos para tomar decisões. Informações e relatórios de performance do sistema. Esse perfil de usuário busca flexibilidade e controle sobre as opções oferecidas aos clientes, além de insights para melhorar a eficiência e a lucratividade do restaurante. E são adeptos a inovação.  </td>
+<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema, adeptos a inovação desejam a dispinibilidade de um cardápio que possibilite edição de seus itens de modo prático e uma diminuição na dependência de funcionários para funcionamento de seu ambiente.  </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td> Gerenciamento do cardápio, gestão de promoções, controle de estoque, praticidade e flexibilidade. Cardápio digital com fotos reais dos pratos e dos ingredientes que fomentasse o consumo no estabelecimento. </td>
+<td> Gerenciamento do cardápio, com possibilidade de adicionar, editar ou remover itens do cardápio, definir preços, ajustar opções de personalização e configurar promoções especiais. Envio de pedidos realizados a cozinha. Geração de informações e relatórios de performance do sistema. Cardápio digital com fotos reais dos pratos e dos ingredientes. </td>
 </tr>
   
 </tbody>
