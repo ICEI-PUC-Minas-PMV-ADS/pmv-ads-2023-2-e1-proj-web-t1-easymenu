@@ -62,7 +62,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Não Será Corrigido (Wontflix)</li>
 </ul>
  
-  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/20c06404-9930-44aa-808e-212f80cd78f8)
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/62c356cb-e825-44ac-b998-00fe8b7ddd71)
+
 "
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
