@@ -55,9 +55,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Infraestrutura (Infrastructure)</li>
   <li>Testes (Tests)</li>
 </ul>
-
-<figure> 
-  <img src="![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/20c06404-9930-44aa-808e-212f80cd78f8)
+ 
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/20c06404-9930-44aa-808e-212f80cd78f8)
 "
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
