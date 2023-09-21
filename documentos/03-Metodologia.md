@@ -52,8 +52,14 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Desenvolvimento (Development)</li>
   <li>Documentação (Documentation)</li>
   <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
+  <li>Aprimoramento (Enhancement)</li>
   <li>Testes (Tests)</li>
+  <li>Boa primeira tarefa (Good first issue)</li>
+  <li>Procura-se ajuda (Help wanted)</li>
+  <li>inválido (Invalid)</li>
+  <li>Pergunta (Question)</li>
+  <li>Testes (Tests)</li>
+  <li>Não Será Corrigido (Wontflix)</li>
 </ul>
  
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/20c06404-9930-44aa-808e-212f80cd78f8)
