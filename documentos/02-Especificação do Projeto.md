@@ -16,8 +16,6 @@
 <td><b>Necessidades</b></td>
 <td> Cardápio digital e intuitivo, produto disponibilizados de modo claro e objetivo, possibilidade de personalização dos itens e realização do pedido de modo online, com agilidade, sem depedência de terceiros. </td>
 </tr>
-<p></p>
-<p></p>
 <tr align=center>
 <th colspan="2">Perfil Proprietário/Gerente do Estabelecimento </th>
 </tr>
@@ -29,7 +27,17 @@
 <td><b>Necessidades</b></td>
 <td> Gerenciamento do cardápio, com possibilidade de adicionar, editar ou remover itens do cardápio, definir preços, ajustar opções de personalização e configurar promoções especiais. Envio de pedidos realizados a cozinha. Geração de informações e relatórios de performance do sistema. Cardápio digital com fotos reais dos pratos. </td>
 </tr>
-  
+<tr align=center>
+<th colspan="2">Perfil Equipe de Cozinha </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Os membros da equipe da cozinha precisam receber os pedidos feitos pelos clientes por meio do sistema.  </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> O sistema deve exibir os detalhes dos pedidos, incluindo as personalizações feitas pelos clientes, para que a equipe possa preparar os pratos de acordo com as especificações. Isso pode incluir informações sobre alergias, preferências de cozimento, entre outros detalhes relevantes.Receber notificações em tempo real quando novos pedidos forem feitos. </td>
+</tr>  
 </tbody>
 </table>
 
@@ -49,6 +57,8 @@
 | Proprietário| Histórico dos pedidos realizados por cada mesa| Lançamento dos produtos consumidos e cobrança dos clientes|
 | Proprietário| Aplicação que esteja online full time| Possibilitação de realizar as atividades do estabelecimento em qualquer horário|
 | Proprietário| Sistema que gere relatórios| Identificação dos produtos mais consumidos, desempenho do estabelecimento|
+| Equipe de Cozinha| Aplicação que informe os pedidos feitos com informações detalhadas, incluindo personalizações, instruções especiais e alergias|Para produção dos pratos de modo sastifatório para o cliente |
+| Equipe de Cozinha| notificações em tempo real dos pedidos realizados|Para produção dos pratos de modo eficiente | 
 
 ## Requisitos do Projeto
 
