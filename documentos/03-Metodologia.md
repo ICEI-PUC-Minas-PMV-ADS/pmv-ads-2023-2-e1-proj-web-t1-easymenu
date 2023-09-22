@@ -18,11 +18,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Amanda Paula Oliveira Silva, Fernanda Alice Martins Soares, João Victor Braga Zacarias, Naiana Mendonça Coelho, Talysson Moraes Lourenço de Oliveira.
 - Equipe de Design: Amanda Paula Oliveira Silva.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
@@ -35,15 +30,6 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 - O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/607 e é apresentado, no estado atual, na figura abaixo:
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/ce019495-4afd-4247-8f3d-2587fc9d7189)
-
-
-
-
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 
 ### Etiquetas
