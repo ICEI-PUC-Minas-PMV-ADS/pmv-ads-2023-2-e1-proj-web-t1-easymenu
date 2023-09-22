@@ -78,6 +78,8 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RF-06 |Permitir que seja possível incorporar imagens aos produtos|Média|
 | RF-07 |A aplicação deve possibilitar a inclusão de produtos em oferta por tempo limitado, e após o tempo definido serão retirados automaticamente do sistema |Média|
 | RF-07 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
+| RF-08 |A aplicação deverá detalhar as edições feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
+| RF-09 |A aplicação deverá notificar os novos pedidos feitos pelas mesass|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
