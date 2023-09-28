@@ -76,10 +76,9 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RF-04 | O sistema deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
 | RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e reenvio a cozinha|Alta|
 | RF-06 |Permitir que seja possível incorporar imagens aos produtos|Média|
-| RF-07 |A aplicação deve possibilitar a inclusão de produtos em oferta por tempo limitado, e após o tempo definido serão retirados automaticamente do sistema |Média|
 | RF-07 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
-| RF-08 |A aplicação deverá detalhar as edições feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
-| RF-09 |A aplicação deverá notificar os novos pedidos feitos pelas mesass|Média|
+| RF-08 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
+| RF-09 |A aplicação deverá notificar os novos pedidos feitos pelas mesas|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -93,8 +92,7 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RNF-02 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
 | RNF-03 | A aplicação deverá permitir seu acesso por QR CODE|Média|
 | RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Média|
-| RNF-05 | Deve ser acessível para pessoas com deficiência, atendendo a padrões de acessibilidade da web|Média|
-| RNF-06 | O cardápio digital deve carregar rapidamente|Baixa|
+| RNF-05 | O cardápio digital deve carregar rapidamente|Baixa|
 
 **Prioridade: Alta / Média / Baixa. 
 
