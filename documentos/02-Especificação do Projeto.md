@@ -37,6 +37,17 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td> O sistema deve exibir os detalhes dos pedidos, incluindo as personalizações feitas pelos clientes, para que a equipe possa preparar os pratos de acordo com as especificações. Isso pode incluir informações sobre alergias, preferências de cozimento, entre outros detalhes relevantes.Receber notificações em tempo real quando novos pedidos forem feitos. </td>
+</tr>
+<tr align=center>
+<th colspan="2">Perfil caixa</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">O perfil caixa será responsável por receber o pagamento dos clientes após finalizarem as compras.  </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> O sistema deverá exibir as mesas com os detalhes dos pedidos, permitindo que o usuário selecione uma ou mais mesas para finalizar as compras, totalizando o valor a ser pago pelo cliente e permitindo os pagamentos através de cartão de crédito e débito, dinheiro e pix. </td>
 </tr>  
 </tbody>
 </table>
