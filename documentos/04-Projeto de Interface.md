@@ -140,7 +140,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 
 <figure> 
     <figcaption><p>Figura 15 - Tela para os clientes avaliarem</p>
-</figure>v
+</figure>
 
 
 
