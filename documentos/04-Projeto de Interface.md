@@ -18,5 +18,11 @@ Conteúdo - apresenta o conteúdo da tela em questão;
 Rodapé - apresenta informações sobre os direitos autorais.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/54e7eaa2-4600-46c6-924c-8b950ea57f1e)
- 
+
+<hr>
+<h3><b>Tela - Home page</b></h3>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/6ea1146d-30ab-4fe5-8843-34f446d7279d)
+
+<hr>
+
 
