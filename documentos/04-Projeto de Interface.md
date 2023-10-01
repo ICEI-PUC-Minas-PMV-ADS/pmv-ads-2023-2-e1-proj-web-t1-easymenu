@@ -27,7 +27,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <figure> 
     <figcaption><p>Figura 1 - Tela da pagina inicial do gerente</p>
 </figure>
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144950035/68d8b1f5-2ce2-4e1c-863b-3a51cb1e3551)
+
 
 
 
