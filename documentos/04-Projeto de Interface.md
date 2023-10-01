@@ -128,7 +128,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 <h3><b>Tela - Home page Clientes</b></h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/91dc785d-f8d7-4359-8259-54548654fa16)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/c6bba821-85ff-4168-a378-fc11704c221c)
 
 <figure> 
     <figcaption><p>Figura 10 - Tela da pagina inicial dos clientes</p>
@@ -146,11 +146,10 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 <h3><b>Tela - Pedidos</b></h3>
 
-
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/47df8a06-c7d7-46ee-98f8-2d373b6ca969)
 
 <figure> 
-    <figcaption><p>Figura 12 - Pagina de pedidos dos clientes</p>
+    <figcaption><p>Figura 12 - Pagina de personalização do pedido dos clientes</p>
 </figure>
 
 <hr>
