@@ -48,7 +48,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr> 
 <h3>Tela - Home page Gerente</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d90d1182-7f84-42a2-bd70-0029aaaf4858)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/f36a21e7-003a-4bce-b16d-db7ed01118a1)
 
 <figure> 
     <figcaption><p>Figura 1 - Tela da pagina inicial do gerente</p>
