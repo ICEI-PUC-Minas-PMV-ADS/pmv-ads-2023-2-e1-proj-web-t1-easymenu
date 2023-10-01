@@ -20,16 +20,33 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/54e7eaa2-4600-46c6-924c-8b950ea57f1e)
 
 <hr>
-<h3><b>Tela - Página Inicial do Sistema
+<h3>Tela - Página Inicial do Sistema</h3>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/1110dff8-d870-4417-a2c6-109b86ead261)
-    
-<h3><b>Tela - Página de Registro
+
+<figure> 
+    <figcaption><p>Figura 1 - Tela da pagina inicial do sistema</p>
+</figure>
+
+<hr>    
+<h3>Tela - Página de Registro</h3>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/db8997de-e325-4ef0-b029-d4db1f818558)
 
-<h3><b>Tela - Página de Login
+<figure> 
+    <figcaption><p>Figura 1 - Tela da pagina de registro </p>
+</figure>
+
+<hr>    
+<h3>Tela - Página de Login</h3>
+    
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2164949d-8bb8-4984-8eb8-18ee219dad7f)
-  
-<h3><b>Tela - Home page Gerente</b></h3>
+
+<figure> 
+    <figcaption><p>Figura 1 - Tela da pagina de loginn</p>
+</figure>
+<hr> 
+<h3>Tela - Home page Gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d90d1182-7f84-42a2-bd70-0029aaaf4858)
 
@@ -38,7 +55,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>    
-<h3><b>Tela - Tela de visualização das avaliações pelo gerente</b></h3>
+<h3><b>Tela - Visualização das avaliações pelo gerente</b></h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d3cbd9b2-7dea-4676-a3dd-fdf4b05c8325)
 
