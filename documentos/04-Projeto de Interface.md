@@ -20,6 +20,15 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/54e7eaa2-4600-46c6-924c-8b950ea57f1e)
 
 <hr>
+<h3><b>Tela - Página Inicial do Sistema
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/1110dff8-d870-4417-a2c6-109b86ead261)
+    
+<h3><b>Tela - Página de Registro
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/db8997de-e325-4ef0-b029-d4db1f818558)
+
+<h3><b>Tela - Página de Login
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2164949d-8bb8-4984-8eb8-18ee219dad7f)
+  
 <h3><b>Tela - Home page Gerente</b></h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/6ea1146d-30ab-4fe5-8843-34f446d7279d)
@@ -55,7 +64,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 <h3><b>Tela - Relatório Anual Gerente</b></h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18566fc1-59d8-47bd-9c7d-ac448f1deb0b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18566fc1-59d8-47bd-9c7d-ac448f1deb0b)>,b
 
 <figure> 
     <figcaption><p>Figura 6 - Pagina de relatório de rendas do gerente (gráfico)</p>
