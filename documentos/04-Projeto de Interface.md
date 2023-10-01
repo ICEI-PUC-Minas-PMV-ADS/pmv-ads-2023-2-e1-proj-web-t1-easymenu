@@ -26,7 +26,8 @@ Rodapé - apresenta informações sobre os direitos autorais.
 
 <figure> 
     <figcaption><p>Figura 1 - Tela da pagina inicial do gerente</p>
-</figure>
+</figu
+    
 
 
 
