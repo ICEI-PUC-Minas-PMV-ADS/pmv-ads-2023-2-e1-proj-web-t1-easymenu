@@ -65,14 +65,14 @@
 | Cliente            |Visualizar os pedidos já realizados| Ter uma ciência do produtos já consumidos e gastos realizados|
 | Proprietário       | Um cardápio digital passível de edição dos itens e interativo|Para alterar os produtos e categorias disponíveis|
 | Proprietário| Envio dos pedidos de modo online para a cozinha| Não necessitar de um funcionário para anotar os pedidos dos clientes|
-| Proprietário| Histórico dos pedidos realizados por cada mesa| Lançamento dos produtos consumidos e cobrança dos clientes|
+| Proprietário| Histórico dos pedidos e valores gastos or cada mesa| Lançamento dos produtos consumidos e cobrança dos clientes|
 | Proprietário| Aplicação que esteja online full time| Possibilitação de realizar as atividades do estabelecimento em qualquer horário|
 | Proprietário| Sistema que gere relatórios| Identificação dos produtos mais consumidos, desempenho do estabelecimento|
 | Equipe de Cozinha| Aplicação que informe os pedidos feitos com informações detalhadas, incluindo personalizações, instruções especiais e alergias|Para produção dos pratos de modo sastifatório para o cliente |
 | Equipe de Cozinha| notificações em tempo real dos pedidos realizados|Para produção dos pratos de modo eficiente | 
-| Caixa | permitir que selecione uma ou mais mesas com detalhes dos itens| Facilitar que o cliente confira o que será pago| 
-| Caixa | possibilitar selecionar três formas de pagamento(Cartão, Dinheiro, PIX)| Facilitar o pagamento pelo cliente| 
-| Caixa | permitir visualização de todos pagamentos do dia| Facilitar a visualização do faturamento | 
+| Caixa | Permitir que selecione uma ou mais mesas com detalhes dos itens| Facilitar que o cliente confira o que será pago| 
+| Caixa | Possibilitar selecionar três formas de pagamento(Cartão, Dinheiro, PIX)| Facilitar o pagamento pelo cliente| 
+| Caixa | Permitir visualização de todos pagamentos do dia| Facilitar a visualização do faturamento | 
 
 ## Requisitos do Projeto
 
@@ -89,10 +89,14 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos|Alta|
 | RF-04 | O sistema deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
 | RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e reenvio a cozinha|Alta|
-| RF-06 |Permitir que seja possível incorporar imagens aos produtos|Média|
-| RF-07 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
-| RF-08 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
-| RF-09 |A aplicação deverá notificar os novos pedidos feitos pelas mesas|Média|
+| RF-06 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa|Alta|
+| RF-07 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo gerente|Alta|
+| RF-08 |A aplicação deve demonstrar um relatório diário dos pagamentos do dia|Alta|
+| RF-09 |Permitir que seja possível incorporar imagens aos produtos|Média|
+| RF-10 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
+| RF-11 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
+| RF-12 |A aplicação deverá notificar os novos pedidos feitos pelas mesas|Média|
+| RF-13 |A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
