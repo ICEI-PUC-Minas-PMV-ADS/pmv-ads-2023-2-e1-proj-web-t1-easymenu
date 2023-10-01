@@ -70,6 +70,9 @@
 | Proprietário| Sistema que gere relatórios| Identificação dos produtos mais consumidos, desempenho do estabelecimento|
 | Equipe de Cozinha| Aplicação que informe os pedidos feitos com informações detalhadas, incluindo personalizações, instruções especiais e alergias|Para produção dos pratos de modo sastifatório para o cliente |
 | Equipe de Cozinha| notificações em tempo real dos pedidos realizados|Para produção dos pratos de modo eficiente | 
+| Caixa | permitir que selecione uma ou mais mesas com detalhes dos itens| Facilitar que o cliente confira o que será pago| 
+| Caixa | possibilitar selecionar três formas de pagamento(Cartão, Dinheiro, PIX)| Facilitar o pagamento pelo cliente| 
+| Caixa | permitir visualização de todos pagamentos do dia| Facilitar a visualização do faturamento | 
 
 ## Requisitos do Projeto
 
