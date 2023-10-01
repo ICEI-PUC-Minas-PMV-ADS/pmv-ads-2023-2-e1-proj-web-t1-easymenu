@@ -30,6 +30,9 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 
 <hr>
-<h3><b> Tela - Cardápio Gerente</b></h3>
+
+<figure> ><b>
+<h3 Tela - Cardápio Gerente</b></h3>
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/6d39746a-c47c-45dc-8fea-f5b5c9506554)
+</figure>
 
