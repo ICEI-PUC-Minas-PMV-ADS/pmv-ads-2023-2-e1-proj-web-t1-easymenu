@@ -21,6 +21,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 
 <hr>
 <h3><b>Tela - Home page Gerente</b></h3>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/6ea1146d-30ab-4fe5-8843-34f446d7279d)
 
 <figure> 
