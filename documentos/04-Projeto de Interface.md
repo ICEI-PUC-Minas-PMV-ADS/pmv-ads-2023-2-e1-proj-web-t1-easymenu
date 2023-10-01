@@ -46,7 +46,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
     <figcaption><p>Figura 1 - Tela da pagina de loginn</p>
 </figure>
 <hr> 
-<h3>Tela - Home page Gerente</h3>
+<h3>Tela - Homepage Gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/f36a21e7-003a-4bce-b16d-db7ed01118a1)
 
@@ -64,7 +64,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3><b>Tela - Cardapio Gerente</b></h3>
+<h3>Tela - Cardapio Gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/f179d8d8-f4fd-4884-8f75-0e5d1d5871f7)
 
@@ -73,7 +73,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3><b>Tela - Edição de Cardápio do Gerente</b></h3>
+<h3>Tela - Edição de Cardápio do Gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/b6647101-4fc9-4788-b137-6dd31e10bc2b)
 
@@ -81,16 +81,19 @@ Rodapé - apresenta informações sobre os direitos autorais.
     <figcaption><p>Figura 4 - Tela da pagina de edição do cardápio</p>
 </figure>
 
+<hr>
+<h3>Tela - Adição de item no cardápio do Gerente</h3>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/2204938d-8bb4-4a79-9e6b-2787c612aea6)
 
 <figure> 
-    <figcaption><p>Figura 5 - Tela da pagina de edição do cardápio</p>
+    <figcaption><p>Figura 5 - Tela da pagina de adição de item no cardápio</p>
 </figure>
 
 <hr>
-<h3><b>Tela - Relatório Anual Gerente</b></h3>
+<h3>Tela - Relatório Gerente</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18566fc1-59d8-47bd-9c7d-ac448f1deb0b)>,b
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18566fc1-59d8-47bd-9c7d-ac448f1deb0b)
 
 <figure> 
     <figcaption><p>Figura 6 - Pagina de relatório de rendas do gerente (gráfico)</p>
@@ -104,7 +107,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 
 
 <hr>
-<h3><b>Tela - Home page Cozinha</b></h3>
+<h3><b>Tela - Homepage Cozinha</b></h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/cc32a80b-a23c-436c-be9b-d33b935de94e)
 
@@ -119,7 +122,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 
 
 <figure> 
-    <figcaption><p>Figura 9 - Tela de verificação dos pedidos cozinha</p>
+    <figcaption><p>Figura 9 - Tela para produção dos pedidos pela cozinha</p>
 </figure>
 
 <hr>
