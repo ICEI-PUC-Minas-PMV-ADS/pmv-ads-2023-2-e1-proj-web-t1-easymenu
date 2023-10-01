@@ -76,7 +76,7 @@ Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Fig
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu.git                            |
 | Projeto de Interface                | Figma                              | https://www.figma.com/file/osd4CM5FO5cT3xbYa5wGCd/EASY-MENU?type=design&node-id=0-1&mode=design&t=nGJSBberoQFJV3iQ-0                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/607/views/1                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Hospedagem                          | GitHub Pages                       | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu                          |
 
 
 ### Estratégia de Organização de Codificação 
