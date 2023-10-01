@@ -127,7 +127,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 <h3><b>Tela - Resumo do Pedido</b></h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/baedb9c7-3868-4060-adc9-63e5756b0dfd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/5799f013-d47c-4f57-b712-4e8206013bbe)
 
 <figure> 
     <figcaption><p>Figura 14 - Resumo e Forma de Pagamento</p>
