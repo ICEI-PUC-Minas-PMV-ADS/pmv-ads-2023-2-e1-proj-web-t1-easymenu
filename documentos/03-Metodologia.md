@@ -74,7 +74,7 @@ Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Fig
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/main/codigo-fonte|
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/main/documentos                           |
-| Projeto de Interface                | Figma e draw.io                    | https://www.figma.com/file/osd4CM5FO5cT3xbYa5wGCd/EASY-MENU?type=design&node-id=0-1&mode=design&t=nGJSBberoQFJV3iQ-0                            |
+| Projeto de Interface                | Figma e draw.io                    | https://www.figma.com/file/osd4CM5FO5cT3xbYa5wGCd/EASY-MENU?type=design&node-id=0-1&mode=design&t=nGJSBberoQFJV3iQ-0  / https://app.diagrams.net/#G1Nr-ra8xvBKyK8-NXpmIQ5r9CQn9FIBw3                           |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/607/views/1                            |
 | Hospedagem                          | GitHub Pages                       |                           |
 
