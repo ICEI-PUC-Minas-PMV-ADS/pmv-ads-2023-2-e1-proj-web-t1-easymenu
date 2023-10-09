@@ -6,7 +6,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Usuário Final </th>
+<th colspan="2">Perfil Cliente </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -86,13 +86,13 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 |-------|---------------------------------|----|
 | RF-01 |A aplicação deverá possibilitar o acréscimo ou alteração de itens do produto pelo cliente|Alta| 
 | RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, produtos ou categorias do menu|Alta|
-| RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos|Alta|
-| RF-04 | O sistema deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
+| RF-03 |A aplicação deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos|Alta|
+| RF-04 |A aplicação deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
 | RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e envio a cozinha|Alta|
 | RF-06 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa|Alta|
 | RF-07 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo gerente|Alta|
 | RF-08 |A aplicação deve demonstrar um relatório diário dos pagamentos do dia|Alta|
-| RF-09 |Permitir que seja possível incorporar imagens aos produtos|Média|
+| RF-09 |A aplicação deve permitir que seja possível incorporar imagens aos produtos|Média|
 | RF-10 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
 | RF-11 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha|Média|
 | RF-12 |A aplicação deverá notificar os novos pedidos feitos pelas mesas|Média|
@@ -106,10 +106,10 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 | O sistema deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
-| RNF-02 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
+| RNF-01 | A aplicação deve ser responsivo, para rodar em dispositivos móveis e pc|Alta| 
+| RNF-02 | A aplicação deve ter uma interface organizada e de fácil usabilidade|Alta|
 | RNF-03 | A aplicação deverá permitir seu acesso por QR CODE|Média|
-| RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Média|
+| RNF-04 | A aplicação deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
