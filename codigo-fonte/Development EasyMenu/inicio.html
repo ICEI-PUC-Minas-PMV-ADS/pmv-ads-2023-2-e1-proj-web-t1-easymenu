@@ -24,7 +24,9 @@
     
     <div class="header">
         <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-            <a href="./inicio.html"><img src="./images/LogoEasyMenu.png" alt="logo" class="logopng"></img></a>
+            <div class="logo-container">
+                <a href="./inicio.html"><img src="./images/LogoEasyMenu.png" alt="logo" class="logopng"></a>
+            </div>
             <button class="navbar-toggler me-2 transparent" type="button" data-toggle="collapse"
                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -42,31 +44,32 @@
                     <div class="dropdown pt-5">
                         <button class="btn btn-secondary dropdown-toggle ps-0" type="button" id="dropdownMenuButton"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Contas
+                            Cardapio
                         </button>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="./apagar.html">A Pagar</a>
-                            <a class="dropdown-item" href="./areceber.html">A Receber</a>
+                            <a class="dropdown-item" href="">Hamburguer</a>
+                            <a class="dropdown-item" href="">Pizza</a>
                         </div>
                     </div>
 
                     <li class="nav-item">
-                        <a class="nav-link active text-white ps-0" href="./ContasApagar.html">
-                            <p class="texto pt-5">Pagamentos</p>
+                        <a class="nav-link active text-white ps-0" href="">
+                            <p class="texto pt-5">Caixa</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active text-white ps-0" href="./financeiro.html">
-                            <p class="texto pt-5">Financeiro</p>
+                        <a class="nav-link active text-white ps-0" href="">
+                            <p class="texto pt-5">Adicionar novo produto ou categoria</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active text-white ps-0" href="./configurações.html">
-                            <p class="texto pt-5">Configurações</p>
+                        <a class="nav-link active text-white ps-0" href="">
+                            <p class="texto pt-5">Avaliações</p>
                         </a>
                     </li>
                 </ul>
             </div>
+            
             <div class="dropdown pt-5">
                 <button class="btn btn-secondary dropdown-toggle ps-0 pt-0 pb-0 text-center" type="button"
                     id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -81,103 +84,10 @@
     </div>
     </nav>
 
-    <!-- Botão Editar Evento -->
+    <!-- O QUE PRECISA SER DESENVOLVIDO -->
 
 
-    <div class="">
-        <a href="" class="btn btn-default btn-rounded" data-toggle="modal" data-target="#sideModalTLInfo2"
-            id="modalBtn2" hidden>Editar Evento<i class="far fa-eye ml-1"></i></a>
-    </div>
-
-
-    <!-- Botão Criar Evento -->
-
-    <div id="botaoAdicionar" class="">
-
-    </div>
-
-
-    <!-- Modal Criar Evento -->
-
-
-    <div class="modal fade left" id="sideModalTLInfo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-notify modal-info modal-side modal-top-left" role="document">
-            <div id="modal-content" class="modal-content text-center">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true" class="white-text">&times;</span>
-                    </button>
-                </div>
-                <div class="row">
-                    <div class="col" id="col-input">
-                        <h5 class="text-ev" id="dataexib">Data</h5>
-                        <input type="date" class="form-control" placeholder="Data" id="dataCad">
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col">
-                        <h5 class="text-ev">Horário</h5>
-                        <input type="time" class="form-control" placeholder="Horário" id="horarioCad">
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col">
-                        <h5 class="text-ev">Meio de contato</h5>
-                        <input type="text" class="form-control" placeholder="Ex: Teams" id="contatoCad">
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col">
-                        <h5 class="text-ev" id="comQuem">Com quem</h5>
-                        <input type="text" class="form-control" placeholder="Ex: Jose da Silva" id="quemCad">
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col">
-                        <h5 class="text-ev text-justify"><label for="descricao" id="descricaoLabel">Descrição</label></h5>
-                        <textarea class="form-control" id="descricaoCad" name="descricao" rows="5"
-                            style="height: 100px; resize: vertical;"
-                            placeholder="Ex: Alinhamento sobre projeto"></textarea>
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div id="botao-modal" class="col ">
-                        <button onclick="cadEvento()" type="submit" class="button-cadastrar-ev"
-                            id="alsoEditEvento">Cadastrar</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-    <!-- VIEW EVENTOS -->
-
-    <div class="col ps-3 w-100">
-        <div class="row">
-            <div class="card px-0 text-center" id="cardEventosExib">
-                <div class="card-header">
-                    <h6 class="text-black card-title">Acompanhar eventos</h6>
-                </div>
-                <div class="card-body align-self-center col-6" id="body-card">
-                    <table class="table table-hover" id="exibirEventos">
-                        <thead class=" table table-light">
-                        </thead>
-                        <tbody>
-                            <!--Estrutura do Card de exibição dos eventos-->
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-    </div>
+  
 
 
 
@@ -189,8 +99,7 @@
     <!-- Copyright -->
 
     <div class="text-center p-3" id="footer">
-        © 2023
-        <a class="text-light" href="/index.html">Protags</a>
+        Copyright <a class="text-light" href="/index.html">EasyMenu</a> © 2023 Todos os direitos reservados.
     </div>
 
 
