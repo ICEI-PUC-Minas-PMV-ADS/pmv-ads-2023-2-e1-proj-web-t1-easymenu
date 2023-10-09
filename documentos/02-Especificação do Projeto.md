@@ -88,13 +88,13 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, produtos ou categorias do menu|Alta|
 | RF-03 |O site deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos|Alta|
 | RF-04 | O sistema deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes|Alta|
-| RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e reenvio a cozinha|Alta|
+| RF-05 |A aplicação deve possibilitar a realização de pedidos através do mesmo e envio a cozinha|Alta|
 | RF-06 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa|Alta|
 | RF-07 |A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo gerente|Alta|
 | RF-08 |A aplicação deve demonstrar um relatório diário dos pagamentos do dia|Alta|
 | RF-09 |Permitir que seja possível incorporar imagens aos produtos|Média|
 | RF-10 |A aplicação deverá possibilitar a geração de relatórios de histórico de produtos, pedidos e mesas|Média|
-| RF-11 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando reenviados a cozinha|Média|
+| RF-11 |A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha|Média|
 | RF-12 |A aplicação deverá notificar os novos pedidos feitos pelas mesas|Média|
 | RF-13 |A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa|Média|
 
@@ -110,7 +110,6 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RNF-02 | O Site deve ter uma interface organizada e de fácil usabilidade|Alta|
 | RNF-03 | A aplicação deverá permitir seu acesso por QR CODE|Média|
 | RNF-04 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados LGPD|Média|
-| RNF-05 | O cardápio digital deve carregar rapidamente|Baixa|
 
 **Prioridade: Alta / Média / Baixa. 
 
