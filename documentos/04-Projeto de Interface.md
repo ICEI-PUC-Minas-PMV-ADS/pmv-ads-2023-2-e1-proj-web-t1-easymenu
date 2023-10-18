@@ -93,27 +93,12 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3>Tela - Relatório Gerente</h3>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18566fc1-59d8-47bd-9c7d-ac448f1deb0b)
-
-<figure> 
-    <figcaption><p>Figura 9 - Pagina de relatório de rendas do gerente (gráfico)</p>
-</figure>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/9031355c-af31-4b0b-b46e-06830e48ef25)
-
-<figure> 
-    <figcaption><p>Figura 10 - Tela da pagina de relatório de rendas com detalhes mensais do gerente</p>
-</figure>
-
-<hr>
 <h3>Gerenciamento caixa pelo gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/cef24025-9342-4c00-b3a5-cc90c95496b0)
 
 <figure> 
-    <figcaption><p>Figura 11 - Tela de gerenciamento do caixa pelo gerente</p>
+    <figcaption><p>Figura 9 - Tela de gerenciamento do caixa pelo gerente</p>
 </figure>
 
 <hr>
@@ -122,7 +107,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/cc32a80b-a23c-436c-be9b-d33b935de94e)
 
 <figure> 
-    <figcaption><p>Figura 12 - Tela da pagina inicial de notificações da cozinha</p>
+    <figcaption><p>Figura 10 - Tela da pagina inicial de notificações da cozinha</p>
 </figure>
 
 <hr>
@@ -131,7 +116,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/63dc6213-40c2-429d-aeb9-c029b7c99fd7)
 
 <figure> 
-    <figcaption><p>Figura 13 - Tela para produção dos pedidos pela cozinha</p>
+    <figcaption><p>Figura 11 - Tela para produção dos pedidos pela cozinha</p>
 </figure>
 
 <hr>
@@ -140,7 +125,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/39d65e72-bf54-45d8-8fe0-c4d383269536)
 
 <figure> 
-    <figcaption><p>Figura 14 - Tela para pagamento dos pedidos de casa mesa pelo caixa</p>
+    <figcaption><p>Figura 12 - Tela para pagamento dos pedidos de casa mesa pelo caixa</p>
 </figure>
 
 <hr>
@@ -149,7 +134,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/c6bba821-85ff-4168-a378-fc11704c221c)
 
 <figure> 
-    <figcaption><p>Figura 10 - Tela da pagina inicial dos clientes</p>
+    <figcaption><p>Figura 13 - Tela da pagina inicial dos clientes</p>
 </figure>
 
 <hr>
@@ -158,7 +143,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/d8ff3ceb-3828-4bb4-b256-d2572d460de5)
 
 <figure> 
-    <figcaption><p>Figura 11 - Tela da pagina do cardápio para os clientes</p>
+    <figcaption><p>Figura 14 - Tela da pagina do cardápio para os clientes</p>
 </figure>
 
 <hr>
@@ -167,7 +152,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/47df8a06-c7d7-46ee-98f8-2d373b6ca969)
 
 <figure> 
-    <figcaption><p>Figura 12 - Pagina de personalização do pedido dos clientes</p>
+    <figcaption><p>Figura 15 - Pagina de personalização do pedido dos clientes</p>
 </figure>
 
 <hr>
@@ -176,7 +161,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/16d5b3b8-5a44-4eed-9a90-49a8f9e6dd27)
 
 <figure> 
-    <figcaption><p>Figura 13 - Tela da pagina de carrinho/resumo dos pedidos dos clientes</p>
+    <figcaption><p>Figura 16 - Tela da pagina de carrinho/resumo dos pedidos dos clientes</p>
 </figure>
 
 
@@ -186,7 +171,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/17dac157-b842-4ee9-b82f-5ac4368819e6)
 
 <figure> 
-    <figcaption><p>Figura 15 - Tela para os clientes avaliarem</p>
+    <figcaption><p>Figura 17 - Tela para os clientes avaliarem</p>
 </figure>
 
 
