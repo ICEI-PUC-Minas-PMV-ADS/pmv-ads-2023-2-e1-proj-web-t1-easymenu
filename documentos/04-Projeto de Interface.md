@@ -47,55 +47,48 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <figure> 
     <figcaption><p>Figura 3 - Tela da pagina de loginn</p>
 </figure>
-<hr> 
-<h3>Tela - Homepage Gerente</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/f36a21e7-003a-4bce-b16d-db7ed01118a1)
+<hr>
+<h3>Tela - Edição de Cardápio do Gerente</h3>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/9c7c0eb3-7dc2-4ea6-8994-be993313fd1e)
 
 <figure> 
-    <figcaption><p>Figura 4 - Tela da pagina inicial do gerente</p>
+    <figcaption><p>Figura 7 - Tela da pagina de edição do cardápio</p>
 </figure>
 
 <hr>    
 <h3><b>Tela - Visualização das avaliações pelo gerente</b></h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d3cbd9b2-7dea-4676-a3dd-fdf4b05c8325)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d1b90609-102c-4fe7-ab8f-03558832db61)
+
 
 <figure> 
     <figcaption><p>Figura 5 - Tela de visualização das avaliações pelo gerente</p>
 </figure>
 
 <hr>
-<h3>Tela - Cardapio Gerente</h3>
+<h3>Tela - Adição de Item no Cardápio do Gerente</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/f179d8d8-f4fd-4884-8f75-0e5d1d5871f7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/05ef6334-24e2-44b3-b215-6ca10db1b3b5)
 
 <figure> 
-    <figcaption><p>Figura 6 - Tela da pagina de cardápio do gerente</p>
+    <figcaption><p>Figura 7 - Tela da pagina de adição tem item no cardápio</p>
 </figure>
 
 <hr>
-<h3>Tela - Edição de Cardápio do Gerente</h3>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/b6647101-4fc9-4788-b137-6dd31e10bc2b)
-
-<figure> 
-    <figcaption><p>Figura 7 - Tela da pagina de edição do cardápio</p>
-</figure>
-
-<hr>
-<h3>Tela - Adição de item no cardápio do Gerente</h3>
+<h3>Tela - Edição de item no cardápio do Gerente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/2204938d-8bb4-4a79-9e6b-2787c612aea6)
 
 <figure> 
-    <figcaption><p>Figura 8 - Tela da pagina de adição de item no cardápio</p>
+    <figcaption><p>Figura 8 - Tela da pagina de edição de item no cardápio</p>
 </figure>
 
 <hr>
 <h3>Gerenciamento caixa pelo gerente</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/cef24025-9342-4c00-b3a5-cc90c95496b0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/2cbb1d72-58a7-461b-b027-9e078186727b)
 
 <figure> 
     <figcaption><p>Figura 9 - Tela de gerenciamento do caixa pelo gerente</p>
@@ -129,15 +122,6 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3>Tela - Home page Clientes</h3>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/c6bba821-85ff-4168-a378-fc11704c221c)
-
-<figure> 
-    <figcaption><p>Figura 13 - Tela da pagina inicial dos clientes</p>
-</figure>
-
-<hr>
 <h3>Tela - Cardápio do Cliente</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/d8ff3ceb-3828-4bb4-b256-d2572d460de5)
@@ -156,22 +140,13 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3>Tela - Resumo do Pedido</h3>
+<h3>Tela - Resumo do Pedido e Avaliação</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/16d5b3b8-5a44-4eed-9a90-49a8f9e6dd27)
-
-<figure> 
-    <figcaption><p>Figura 16 - Tela da pagina de carrinho/resumo dos pedidos dos clientes</p>
-</figure>
-
-
-<hr>
-<h3></h3>Tela - Avaliação Clientes</h3>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/17dac157-b842-4ee9-b82f-5ac4368819e6)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/8da1ecf0-b5c7-4530-9b75-ec5b166467e5)
 
 <figure> 
-    <figcaption><p>Figura 17 - Tela para os clientes avaliarem</p>
+    <figcaption><p>Figura 16 - Tela da pagina de carrinho/resumo dos pedidos dos clientes e avaliação</p>
 </figure>
+
 
 
