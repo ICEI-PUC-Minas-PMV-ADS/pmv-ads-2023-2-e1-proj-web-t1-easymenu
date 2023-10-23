@@ -95,21 +95,12 @@ Rodapé - apresenta informações sobre os direitos autorais.
 </figure>
 
 <hr>
-<h3>Tela - Homepage Cozinha</h3>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/cc32a80b-a23c-436c-be9b-d33b935de94e)
-
-<figure> 
-    <figcaption><p>Figura 10 - Tela da pagina inicial de notificações da cozinha</p>
-</figure>
-
-<hr>
 <h3>Tela - Mesas Cozinha</h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/63dc6213-40c2-429d-aeb9-c029b7c99fd7)
 
 <figure> 
-    <figcaption><p>Figura 11 - Tela para produção dos pedidos pela cozinha</p>
+    <figcaption><p>Figura 10 - Tela para produção dos pedidos pela cozinha</p>
 </figure>
 
 <hr>
@@ -118,7 +109,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/39d65e72-bf54-45d8-8fe0-c4d383269536)
 
 <figure> 
-    <figcaption><p>Figura 12 - Tela para pagamento dos pedidos de casa mesa pelo caixa</p>
+    <figcaption><p>Figura 11 - Tela para pagamento dos pedidos de casa mesa pelo caixa</p>
 </figure>
 
 <hr>
@@ -127,7 +118,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/d8ff3ceb-3828-4bb4-b256-d2572d460de5)
 
 <figure> 
-    <figcaption><p>Figura 14 - Tela da pagina do cardápio para os clientes</p>
+    <figcaption><p>Figura 12 - Tela da pagina do cardápio para os clientes</p>
 </figure>
 
 <hr>
@@ -136,7 +127,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/47df8a06-c7d7-46ee-98f8-2d373b6ca969)
 
 <figure> 
-    <figcaption><p>Figura 15 - Pagina de personalização do pedido dos clientes</p>
+    <figcaption><p>Figura 13 - Pagina de personalização do pedido dos clientes</p>
 </figure>
 
 <hr>
@@ -145,7 +136,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/8da1ecf0-b5c7-4530-9b75-ec5b166467e5)
 
 <figure> 
-    <figcaption><p>Figura 16 - Tela da pagina de carrinho/resumo dos pedidos dos clientes e avaliação</p>
+    <figcaption><p>Figura 14 - Tela da pagina de carrinho/resumo dos pedidos dos clientes e avaliação</p>
 </figure>
 
 
