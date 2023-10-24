@@ -97,7 +97,6 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>
 <h3>Tela - Mesas Cozinha</h3>
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/63dc6213-40c2-429d-aeb9-c029b7c99fd7)
 
 <figure> 
     <figcaption><p>Figura 10 - Tela para produção dos pedidos pela cozinha</p>
