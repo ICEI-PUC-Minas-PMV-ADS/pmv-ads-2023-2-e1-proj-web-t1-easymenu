@@ -7,7 +7,7 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 <ul></ul>
 <li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
 <li>Font-family: "Roboto", sans-serif.</li>
-<li></li>Font-size: 15px e 28px.</li>
+<li>Font-size: 15px e 28px.</li>
 </ul>
 
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/menu">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/imagens">aqui</a>.
