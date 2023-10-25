@@ -28,7 +28,7 @@ RF-: O site deve permitir ao usuário cadastrar uma conta e logar na mesma.
 
 #### Estrutura de Dados
 
-[login.html]](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
+[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
 
 
 #### Instruções de acesso
