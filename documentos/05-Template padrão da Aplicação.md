@@ -10,8 +10,20 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 <li>Font-size: 15px e 28px.</li>
 </ul>
 
+<hr>
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/menu">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/imagens">aqui</a>.
 
 <h3><b>Tela de código padrão</b></h3>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/704878c0-0620-4a50-ac3a-1c85c331b6e4)
+
+  <figcaption> Figura 1 - Tela de menu
+</figure> 
+
+<hr>
+<p>Para a criação do logotipo do site foi utilizada a cor lanraja, marrom e branco. A utilização da imagem de um cardápio foi por remeter a função do aplicativo.</p>
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/imagens/logo.jpg">
+    <figcaption>Figura 3 - Logotipo da aplicação Easymenu
+</figure> 
