@@ -36,3 +36,15 @@ $('.input-card-number').on('keyup change', function() {
   
   $window.on('scroll resize', check_if_in_view);
   $window.trigger('scroll');
+
+  // Captura todos os botões de rádio
+const radioButtons = document.querySelectorAll('input[type="radio"]');
+
+// Adiciona um ouvinte de eventos para cada botão de rádio
+radioButtons.forEach(radioButton => {
+  radioButton.addEventListener('change', function() {
+    const selectedValue = this.value;
+    console.log('Avaliação selecionada:', selectedValue);
+    // Você pode fazer o que quiser com o valor selecionado, como enviá-lo para um servidor ou realizar ações específicas com base na seleção.
+  });
+});

@@ -50,6 +50,9 @@ body > main .page-title {
   font-size: 40px;
   padding: 50px 0;
   text-align: center;
+  font-family: "Roboto", sans-serif;
+  color:#4D2C09 
+  
 }
 
 body > main .content {
@@ -76,6 +79,8 @@ button {
 table {
   width: 100%;
   border-collapse: collapse;
+  color:#4D2C09
+  
 }
 
 table thead tr {
@@ -86,7 +91,7 @@ table thead tr th {
   text-align: left;
   padding-bottom: 10px;
   text-transform: uppercase;
-  color: #666;
+  color: #4D2C09;
 }
 
 table tbody tr {
@@ -112,6 +117,8 @@ table tbody tr td {
 
 .product img {
   border-radius: 6px;
+  width: 90px; /* Define a largura da imagem */
+  height: 90px; /* Define a altura da imagem */
 }
 
 .product .info {
@@ -120,11 +127,11 @@ table tbody tr td {
 
 .product .info .name {
   font-size: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 10px;;
 }
 
 .product .info .category {
-  color: #666;
+  color: #81592f;
 }
 
 .qty {
@@ -195,8 +202,8 @@ aside {
 aside .box {
   margin-bottom: 15px;
   border: 1px solid #ccc;
-  background: #eee;
-  color: #222;
+  background: #f7a655;
+  color: #4D2C09 !important;
 }
 
 aside .box header {
@@ -208,6 +215,8 @@ aside .box header {
 aside .box .info {
   padding: 20px;
   font-size: 16px;
+  border-bottom: 1px solid #ccc;
+  background:#f7a655 
 }
 
 aside .box .info > div {
@@ -218,7 +227,6 @@ aside .box .info > div {
       -ms-flex-pack: justify;
           justify-content: space-between;
   margin-bottom: 10px;
-  color: #555;
 }
 
 aside .box .info > div:last-child {
@@ -240,7 +248,8 @@ aside .box .info button {
 
 aside .box footer {
   padding: 15px 20px;
-  background: #ddd;
+  background: #f7a655;
+  border-bottom: 1px solid #ccc;
   font-size: 18px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -265,6 +274,48 @@ aside > button {
 aside > button:hover {
   background: #3bc55b;
 }
+
+.avaliacao-box {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 100px;
+  max-height: 50px;
+  font-family: "Roboto", sans-serif;
+  color:#4D2C09;
+}
+
+.avaliacao-box label {
+  display: inline-flexbox;
+  margin-bottom: 40px;
+}
+
+.avaliacao-box input[type="radio"] {
+  display: none;
+}
+
+.avaliacao-box label span {
+  display: inline-flexbox;
+  width: 40px;
+  height: 40px;
+  background-color:#FF8E1C;
+  color:#4D2C09
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.avaliacao.name{
+  line-height: 200px; /* Igual à altura da caixa */
+  text-align: center;
+} 
+.avaliacao-box input[type="radio"]:checked + label span {
+  background-color: #007bff;
+  color: #fff;
+}
+
 /*# sourceMappingURL=styles.css.map */
 
 /* CARDS EVENTOS */
