@@ -275,48 +275,117 @@ aside > button:hover {
   background: #3bc55b;
 }
 
-.avaliacao-box {
-  background-color: #fff;
-  border: 1px solid #ccc;
-  padding: 100px;
-  max-height: 50px;
+/*# sourceMappingURL=styles.css.map */
+
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #4D2C09;
+  max-width: 500px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: left;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  color:white
+}
+
+.form input {
   font-family: "Roboto", sans-serif;
-  color:#4D2C09;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 40px;
+  box-sizing: border-box;
+  font-size: 14px;
 }
 
-.avaliacao-box label {
-  display: inline-flexbox;
-  margin-bottom: 40px;
-}
-
-.avaliacao-box input[type="radio"] {
-  display: none;
-}
-
-.avaliacao-box label span {
-  display: inline-flexbox;
-  width: 40px;
-  height: 40px;
-  background-color:#FF8E1C;
-  color:#4D2C09
-  border: 1px solid #ccc;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 30px;
-  margin-right: 10px;
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #FF8E1C;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #4D2C09;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
   cursor: pointer;
 }
 
-.avaliacao.name{
-  line-height: 200px; /* Igual à altura da caixa */
-  text-align: center;
-} 
-.avaliacao-box input[type="radio"]:checked + label span {
-  background-color: #007bff;
-  color: #fff;
+.form button:hover,
+.form button:active,
+.form button:focus {
+  background: #43A047;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
 
-/* CARDS EVENTOS */
+.form .message a {
+  color: #FF8E1C;
+  text-decoration: none;
+}
 
+.form .register-form {
+  display: none;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.container:before,
+.container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.container .info {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.container .info h1 {
+  margin: 0 0 15px;
+  padding: 0;
+  font-size: 36px;
+  font-weight: 300;
+  color: #1a1a1a;
+}
+
+.container .info span {
+  color: #4d4d4d;
+  font-size: 12px;
+}
+
+.container .info span a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.container .info span .fa {
+  color: #EF3B3A;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
