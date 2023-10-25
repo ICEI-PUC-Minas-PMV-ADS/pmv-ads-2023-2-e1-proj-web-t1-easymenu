@@ -1,5 +1,13 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção do menu responsivo.
 
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+
+Cores: RGB: #3E497A, whitesmoke, goldenrod e white;
+Font-family: "Roboto", sans-serif.
+Font-size: 15px e 28px.
+O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/menu">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/eb53201754d07f30f4ea69c29a5a9a82b50eb06c/codigo-fonte/imagens">aqui</a>.
+
+<h3><b>Tela de código padrão</b></h3>
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/704878c0-0620-4a50-ac3a-1c85c331b6e4)
