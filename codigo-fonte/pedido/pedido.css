@@ -284,7 +284,6 @@ aside > button:hover {
 }
 
 .form {
-  position: relative;
   z-index: 1;
   background: #4D2C09;
   max-width: 500px;
