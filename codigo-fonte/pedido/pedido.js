@@ -48,3 +48,7 @@ radioButtons.forEach(radioButton => {
     // Você pode fazer o que quiser com o valor selecionado, como enviá-lo para um servidor ou realizar ações específicas com base na seleção.
   });
 });
+
+function voltarPaginaAnterior() {
+  window.history.back();
+}

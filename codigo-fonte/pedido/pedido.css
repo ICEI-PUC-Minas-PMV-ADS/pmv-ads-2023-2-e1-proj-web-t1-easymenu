@@ -40,6 +40,20 @@
     min-height: 83vh;
 }
 
+.botao-voltar {
+  background-color: #fff;
+  color: #4D2C09;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+.botao-voltar:hover {
+  background-color: #0056A9;
+}
+
 
 body > main {
   background: #fff;
@@ -277,6 +291,7 @@ aside > button:hover {
 
 /*# sourceMappingURL=styles.css.map */
 
+
 .login-page {
   width: 360px;
   padding: 8% 0 0;
@@ -291,7 +306,7 @@ aside > button:hover {
   padding: 45px;
   text-align: left;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
-  color:white
+  color:#eee
 }
 
 .form input {
@@ -301,7 +316,7 @@ aside > button:hover {
   width: 100%;
   border: 0;
   margin: 0 0 15px;
-  padding: 40px;
+  padding: 25px;
   box-sizing: border-box;
   font-size: 14px;
 }
@@ -375,7 +390,7 @@ aside > button:hover {
 }
 
 .container .info span a {
-  color: #000000;
+  color: white;
   text-decoration: none;
 }
 
