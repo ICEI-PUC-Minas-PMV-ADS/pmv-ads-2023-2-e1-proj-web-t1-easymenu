@@ -28,46 +28,70 @@
 
     <!-- CONTEÚDO DA PÁGINA -->
     <main>
-        <div class="menu-item">
-            <div class="produto-nome">
-                <h4><b>CHEESEBURGER</b></h4>
-            </div>
-            <img src="../imagens/036_bobs_altualizacao_cardapio_site_610x400_cheeseburguer.png__1200x630_subsampling-2_upscale.png"
-                alt="Produto">
-            <hr>
-            <p><b> Pão da sua escolha com 180g de carne bovina com 2 fatias de queijo de sua preferência</b></p>
-        </div>
-        <div class="personalizacao">
-            <h5><b>Personalize seu Prato</b></h5>
-            <div class="dropdown">
-                <ul>
-                    <li>Escolha o seu pão:</li>
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Selecione
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                        <button class="dropdown-item" type="button">Pão Brioche</button>
-                        <button class="dropdown-item" type="button">Pão australiano</button>
-                        <button class="dropdown-item" type="button">Pão integral</button>
+        <div div class="row">
+            <div class="col-md-6">
+                <div class="menu-item">
+                    <div class="produto-nome">
+                        <h4><b>CHEESEBURGER</b></h4>
                     </div>
-                    <p></p>
-                    <li>Escolha o seu queijo:</li>
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Selecione
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                        <button class="dropdown-item" type="button">Queijo Mussarela</button>
-                        <button class="dropdown-item" type="button">Queijo cheddar</button>
-                        <button class="dropdown-item" type="button">Queijo Prato</button>
-                </ul>
+                    <img src="../imagens/036_bobs_altualizacao_cardapio_site_610x400_cheeseburguer.png__1200x630_subsampling-2_upscale.png"
+                        alt="Produto">
+                    <hr>
+                    <p><b> Pão da sua escolha com 180g de carne bovina com 2 fatias de queijo de sua preferência</b></p>
+                </div>
             </div>
-            <h5><b>Observação:</b></h5>
-            <form class="obs-form">
-              <input type="password" placeholder="Escreva aqui" />
-              <button>Enviar Pedido</button>
-            </form>
+
+            <div class="col-md-6">
+                <div class="menu-item">
+                    <div class="produto-nome">
+                        <h5><b>Personalize seu Prato</b></h5>
+                    </div>
+
+                    <div class="col-md-12">
+                        <div class="dropdown">
+                            <h6><b>Escolha o seu pão: </b></h6>
+                            <button class="btn btn-secondary btn-lg" type="button" id="dropdownMenu2"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Selecione
+                            </button>
+                            <div class="dropdown-menu" style="width: 95%;" aria-labelledby="dropdownMenu2">
+                                <button class="dropdown-item" type="button">Pão Brioche</button>
+                                <button class="dropdown-item" type="button">Pão australiano</button>
+                                <button class="dropdown-item" type="button">Pão integral</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <div class="dropdown">
+                            <h6><b>Escolha o seu queijo: </b></h6>
+                            <button class="btn btn-secondary btn-lg" type="button" id="dropdownMenu2"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Selecione
+                            </button>
+                            <div class="dropdown-menu" style="width: 95%;" aria-labelledby="dropdownMenu2">
+                                <button class="dropdown-item" type="button">Queijo Mussarela</button>
+                                <button class="dropdown-item" type="button">Queijo cheddar</button>
+                                <button class="dropdown-item" type="button">Queijo Prato</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <h6><b>Observaçao: </b></h6>
+                        <div class="mb-3">
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-primary">
+                            Enviar pedido
+                        </button>
+                    </div>
+
+                </div>
+            </div>
         </div>
 
     </main>
