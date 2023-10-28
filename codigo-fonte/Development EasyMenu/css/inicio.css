@@ -31,8 +31,8 @@
     border-color: #4D2C09;
 }
 
-<style>
-    .logo-container {
+
+.logo-container {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -41,7 +41,7 @@
     .logopng {
         width: 10rem;
     }
-</style>
+
 
 .texto {
     margin-bottom: 0;
