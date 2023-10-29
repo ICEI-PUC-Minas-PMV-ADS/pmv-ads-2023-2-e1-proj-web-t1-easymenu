@@ -7,7 +7,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <hr>
 <h3>Tela - Avaliações do Gerente</h3>
 
-![image](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/c0cc9459-adc1-44ea-ac49-f762db6f0b6c))
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/c0cc9459-adc1-44ea-ac49-f762db6f0b6c)
 
 <figure> 
     <figcaption><p>Figura 1 - Tela de visualizações das avaliações para o gerente</p>
