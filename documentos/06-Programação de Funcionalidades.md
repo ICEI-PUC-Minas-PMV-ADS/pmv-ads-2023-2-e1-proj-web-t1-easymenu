@@ -106,7 +106,9 @@ RF-02: No acesso do administrador, deverá ter a possibilidade do mesmo editar, 
 #### Artefatos da funcionalidade
 
 ●edicaotela.html
+
 ●edicaotela.css
+
 ●edicaotela.js
 
 #### Estrutura de Dados
