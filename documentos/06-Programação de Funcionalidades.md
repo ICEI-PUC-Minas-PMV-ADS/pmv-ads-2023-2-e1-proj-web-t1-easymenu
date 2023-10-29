@@ -91,4 +91,35 @@ Ao clicar em “Registre-se” abaixo aos dados a serem inseridos para login, te
 Naiana Mendonça Coelho
 
 
+### Tela - Edição de produto no cardápio do gerente
 
+O acesso a tela de edição de produto é feita através do cardápio do gerente 
+
+Exemplo da tela de login:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144950035/ea62a947-3aed-4824-848e-4fde38d69d23)
+
+
+#### Requisito atendido
+
+RF-02: No acesso do administrador, deverá ter a possibilidade do mesmo editar, excluir e incluir a qualquer momento que desejar, produtos ou categorias do menu
+
+#### Artefatos da funcionalidade
+
+●edicaotela.html
+●edicaotela.css
+●edicaotela.js
+
+#### Estrutura de Dados
+
+edicaotela.html
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+No acesso do administrador ao escolher a categoria cardápio ele vai escolher algum produto que queira fazer alguma alteração, vai clicar em editar produto, sendo possível editar a foto do produto, alterar descrição ou excluir produto
+
+
+#### Responsável
+
+Fernanda Alice Martins Soares
