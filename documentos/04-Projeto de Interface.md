@@ -3,7 +3,7 @@
 
 ## User flow
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/30dbf2a9-556f-4d21-a84f-11d1b6e6429f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/ffdf687d-54e2-4d09-8d58-fbc6a1046409)
 
 
 
