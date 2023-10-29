@@ -126,10 +126,6 @@ No acesso do administrador ao escolher a categoria cardápio ele vai escolher al
 
 Fernanda Alice Martins Soares
 
-# Programação de Funcionalidades
-
-Implementação da aplicação descritas por meio dos requisitos codificados. 
-
 ### Tela de visualização de pedido e personalização do cliente pela equipe da cozinha.
 
 O acesso a tela de visualização de pedido e personalização do cliente poderá ser feito atráves da opção de "Login" e caso o usuário da equipe da cozinha não tenha cadastro poderá ser feito o cadastro através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
@@ -167,10 +163,6 @@ Uma vez logado o usuário da equipe da cozinha terá acesso as informações de 
 
 #### Responsável
 João Victor Braga Zacarias
-
-# Programação de Funcionalidades
-
-Implementação da aplicação descritas por meio dos requisitos codificados. 
 
 ### Tela de consumo e forma de pagamento do cliente pela caixa.
 
