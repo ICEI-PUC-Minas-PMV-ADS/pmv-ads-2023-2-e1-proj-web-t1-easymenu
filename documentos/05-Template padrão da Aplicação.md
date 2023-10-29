@@ -9,7 +9,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <figure>![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/f1707cc0-e9ee-4ef1-9216-61d44387c96d)
 </figure>
 
-<h2>Figura 1- Visualização da tela de avaliações</h2>
+<h6>Figura 1- Visualização da tela de avaliações</h6>
 
 > **Links Úteis**:
 >
