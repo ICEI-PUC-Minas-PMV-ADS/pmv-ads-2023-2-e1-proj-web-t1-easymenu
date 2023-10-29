@@ -203,3 +203,35 @@ Uma vez logado o usuário da equipe de caixa terá acesso as informações de pe
 
 #### Responsável
 João Victor Braga Zacarias
+
+### Tela - Visualização de avaliações dos clientes do gerente
+
+O acesso a tela de visualização das avaliações dos clientes, é feito através do sistema do gerente
+
+Exemplo da tela de login:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18361ff0-03c8-40f9-a865-069b7294debf)
+
+
+
+#### Artefatos da funcionalidade
+
+●avaliacao.html
+
+●avaliacao.css
+
+●avaliacao.js
+
+#### Estrutura de Dados
+
+[avaliacao.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/b0701941e2835225fbdd68d396a0d5814dc9b125/codigo-fonte/avaliacao.html/avaliacao.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+No acesso do administrador para analisar as avaliações dos clientes, ele deverá clicar no botão "Avaliações", que se encontra no cabeçalho, sendo direcionado para a página desejada.
+
+
+#### Responsável
+
+Amanda Paula Oliveira Silva
