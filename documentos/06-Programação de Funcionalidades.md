@@ -125,3 +125,89 @@ No acesso do administrador ao escolher a categoria cardápio ele vai escolher al
 #### Responsável
 
 Fernanda Alice Martins Soares
+
+# Programação de Funcionalidades
+
+Implementação da aplicação descritas por meio dos requisitos codificados. 
+
+### Tela de visualização de pedido e personalização do cliente pela equipe da cozinha.
+
+O acesso a tela de visualização de pedido e personalização do cliente poderá ser feito atráves da opção de "Login" e caso o usuário da equipe da cozinha não tenha cadastro poderá ser feito o cadastro através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de visualização de pedido e personalização do cliente pela equipe da cozinha: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144256546/b617bc23-eb0c-46d4-b4dd-6a1f9aedeb29)
+
+#### Requisito atendido
+
+RF 11: A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha.
+
+
+#### Artefatos da funcionalidade
+
+●cozinha.html
+
+●cozinha.css
+
+●cozinha.js
+
+
+#### Estrutura de Dados
+
+[cozinha.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/Cozinha-Tela1/cozinha.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no canto superior da tela de login poderá ser feito atráves da opção de menu "Login".
+Uma vez logado o usuário da equipe da cozinha terá acesso as informações de pedido e personalização feitos pelo cliente durante a realização de seu pedido.
+
+
+#### Responsável
+João Victor Braga Zacarias
+
+# Programação de Funcionalidades
+
+Implementação da aplicação descritas por meio dos requisitos codificados. 
+
+### Tela de consumo e forma de pagamento do cliente pela caixa.
+
+O acesso a tela de consumo e forma de pagamento do cliente poderá ser feito atráves da opção de "Login" e caso o usuário da equipe caixa não tenha cadastro poderá ser feito o cadastro através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de visualização de pedido e personalização do cliente pela equipe de caixa: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144256546/0d94b1fd-6902-4b8d-b44a-6c898604d8d4)
+
+
+#### Requisito atendido
+
+RF 06: A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa.
+RF 13: A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa
+
+
+#### Artefatos da funcionalidade
+
+●index.html
+
+●index.css
+
+●index.js
+
+
+#### Estrutura de Dados
+
+[index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/main/codigo-fonte/Cozinha-Tela2)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no canto superior da tela de login poderá ser feito atráves da opção de menu "Login".
+Uma vez logado o usuário da equipe de caixa terá acesso as informações de pedido e formas de pagamentos feitos pelo cliente durante a realização de seu pedido.
+
+
+#### Responsável
+João Victor Braga Zacarias
