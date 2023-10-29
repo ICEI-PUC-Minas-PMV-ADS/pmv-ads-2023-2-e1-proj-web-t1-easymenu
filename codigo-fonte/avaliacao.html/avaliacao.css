@@ -1,5 +1,5 @@
-   /* Estilos CSS personalizados */
-   body {
+    /* Estilos CSS personalizados */
+body {
 
     font-family: 'Arial', sans-serif;
     font-style: italic;
@@ -51,6 +51,11 @@ a {
     color: #FF8E1C;
 }
 
+.arrow-left{
+    width: 4%;
+    padding: 10px;
+}
+
 button {
     display: block;
     margin: 0 auto;
@@ -65,7 +70,7 @@ button {
     font-style: oblique;
     text-align: center;
     width: 15%; /* O botão ocupará a largura total */
-    margin-top: 0.5%;
+    margin-top: -3%;
 }
 
 article {
