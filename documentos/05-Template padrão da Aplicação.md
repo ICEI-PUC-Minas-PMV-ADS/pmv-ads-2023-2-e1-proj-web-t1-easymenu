@@ -4,6 +4,15 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 [Apresente a estrutura padrão da sua aplicação.]
 
+<hr>
+<h3>Tela - Avaliações do Gerente</h3>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/c0cc9459-adc1-44ea-ac49-f762db6f0b6c)
+
+<figure> 
+    <figcaption><p>Figura 1 - Tela de visualizações das avaliações para o gerente</p>
+</figure>
+      
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
