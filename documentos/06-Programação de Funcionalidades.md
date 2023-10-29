@@ -113,7 +113,7 @@ RF-02: No acesso do administrador, deverá ter a possibilidade do mesmo editar, 
 
 #### Estrutura de Dados
 
-[edicaotela.html]https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/Fernanda-A-Martins/codigo-fonte/Tela%20edi%C3%A7%C3%A3o/edicaotela.html
+edicaotela.html
 
 #### Instruções de acesso
 
