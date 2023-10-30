@@ -1,6 +1,17 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+Implementação da aplicação descritas por meio dos requisitos codificados.
+
+##Tela Inicial do Sistema
+
+Essa tela vai representar de forma objetiva o funcionamento do sistema de cardápio online
+
+Exemplo da tela de login:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2c9e2cfa-eb1b-4cc6-9462-f2bda62555cd)
+
+Figura 1 - Tela da pagina inicial do sistema
+
 
 ### Tela de login e cadastro
 
