@@ -58,12 +58,11 @@ Exemplo da tela de cadastro:
 
 #### Requisito atendido
 
-RF-: O site deve permitir ao usuário cadastrar uma conta e logar na mesma.
-
+| RF-04 |A aplicação deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes
 
 #### Artefatos da funcionalidade
 
-●lginhtml
+●login.html
 
 ●login.css
 
@@ -100,7 +99,7 @@ Exemplo da tela de pedidos e avaliação:
 
 #### Requisito atendido
 
-RF-: O site deve pemitir a visualização dos produtos pedidos e avaliar o estabelecimento.
+RF-03	A aplicação deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos
 
 
 #### Artefatos da funcionalidade
@@ -123,6 +122,44 @@ Abra um navegador de Internet e informe a seguinte URL:
 
 Ao clicar no canto superior da tela de login poderá ser feito atráves da opção de menu "Login".
 Ao clicar em “Registre-se” abaixo aos dados a serem inseridos para login, terá acesso a página de cadastro.
+
+
+#### Responsável
+Naiana Mendonça Coelho
+
+### Tela do produto
+
+
+O acesso a tela de pedidos poderá ser feito atráves da opção de "selecionar pedido" no cardápio. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de pedidos e avaliação:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/4386341d-579f-4690-ad62-cdd664c47321)
+
+
+#### Requisito atendido
+
+| RF-01 |A aplicação deverá possibilitar o acréscimo ou alteração de itens do produto pelo cliente
+
+#### Artefatos da funcionalidade
+
+●produto.html
+
+●produto.css
+
+●produto.js
+
+
+#### Estrutura de Dados
+
+[produto.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no cardápio, a seleção do produto poderá ser feito atráves da opção de menu "selecionar produto".
 
 
 #### Responsável
@@ -174,7 +211,7 @@ Exemplo da tela de visualização de pedido e personalização do cliente pela e
 
 #### Requisito atendido
 
-RF 11: A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha.
+RF 09: A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha.
 
 
 #### Artefatos da funcionalidade
@@ -214,7 +251,7 @@ Exemplo da tela de visualização de pedido e personalização do cliente pela e
 #### Requisito atendido
 
 RF 06: A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa.
-RF 13: A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa
+RF 11: A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa
 
 
 #### Artefatos da funcionalidade
