@@ -85,6 +85,43 @@ Ao clicar em “Registre-se” abaixo aos dados a serem inseridos para login, te
 #### Responsável
 Naiana Mendonça Coelho
 
+### Tela de cardápio
+
+O acesso a tela de cardápio poderá ser feito pelo cliente ou pelo gerente a depender da finalidade. As estruturas de dados foram baseados em HTML, CSS e JS.
+
+Exemplo da tela de cardápio:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/b7d012db-c43a-4141-9aec-bd566d3643c9)
+
+#### Requisito atendido
+
+RF-	A aplicação deve exibir um cardápio dinâmico com fotos.
+
+
+#### Artefatos da funcionalidade
+
+●cardapio.html
+
+●menu.css
+
+●.js
+
+
+#### Estrutura de Dados
+
+[cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/Development%20EasyMenu/cardapio.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+A tela terá um menu de navegação por categorias de alimentos que ao clicar irá exibir os cardápio disponíveis com opção de selecionar o desejado e adicionar ao carrinho..
+
+
+#### Responsável
+Talysson Moraes Lourenço de Oliveira
+
 
 ### Tela de pedidos e avaliação
 
