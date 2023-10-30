@@ -1,155 +1,347 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EasyMenu</title>
+    <head>
+       <title>EasyMenu - Seja bem-vindo!</title>
 
-  <!-- Google Fonts-->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap" rel="stylesheet">
+       <link rel="stylesheet" href="./css/bootstrap.min.css"/>
+       <link rel="stylesheet" href="./css/fontawesome.css"/>
+       <link rel="stylesheet" href="./css/main.css"/>
 
-  <!--Bootstrap-->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    </head>
 
-  <!--CSS--->
-  <link rel="stylesheet" href="css/index.css">
-  
-  <!--Font-Awesome-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
-    integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="icon" href="./Development EasyMenu/images/favicon.ico">
-</head>
+    <body>
 
-<body>
+        <section class="header">
+           <div class="container">
+             <nav class="navbar navbar-expand-lg pl-0 pr-0">
+                <a class="navbar-brand ml-4" href="#"><img src="img/LogoEasyMenu.png" width="160" class="img-LogoEasyMenu"/>
+                </a>
+                <button class="navbar-toogler" type="button" data-toogle="collapse" data-target="#navbarNavDropdown">
+                    <span class="navbar-toogler-icon">
+                        <i class="fas fa-bars"></i>
+                    </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ml-auto mr-auto">
+                        <li class="nav-item">
+                            <a href="#servicos" class="nav-link"><b>Serviços</b></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#cardapio" class="nav-link"><b>Cardápio</b></a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#depoimentos" class="nav-link"><b>Depoimentos</b></a>
+                        </li>
+                    </ul>
+                    <a class="btn btn-white btn-icon" href="">
+                        Meu Carrinho <span class="icon">
+                            <i class="fa fa-shopping-bag"></i>
+                         </span>
+                     </a>
+                </div>                        
+             </nav>
+           </div>       
+        </section>
 
-  <section id="title">
-    <div class="container-fluid">
+        <section class="banner" id="banner">
+           <div class="container">
+              <div class="row">
+                  <div class="col-6">
+                    <div class="d-flex text-banner">
+                        <h1><b>Seu cardápio <b class="color-primary">completo</b> e dinâmico.</b></h1>
+                        <p>
+                            Fácil de usar, Tudo em um só lugar e eficiência garantida.
+                        </p>
+                        <div>
+                            <a class="btn btn-orange mt-4 mr-3">
+                                Ver Cardápio
+                            </a>
+                            <a href="#" class="btn btn-white btn-icon-left mt-4">
+                                <span class="icon-left">
+                                    <i class="fa fa-phone"></i>
+                                </span>
+                                (31) 9 9813-2058
+                            </a>
+                        </div>
+                    </div>
+                        <a class="btn btn-sm btn-white btn-social mt-4 mr-3" href="">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                    </div>                    
+                  
+                  <div class="col-6">
+                    <div class="card-banner"></div>
+                    <div class="d-flex img-banner">
+                        <img src="./img/cardapio-digital-exemplo.png" alt=""/>
+                    </div>
+                    <div class="card card-case">
+                        "Cardápio bastante dinâmico, completo e atualizado
+                        <br>Funciona muito bem e deixa a gente mais seguro sobre o fechamento da conta."
+                        <span class="card-case-name">
+                            <b>Gabriel Lopes</b>
+                        </span>
+                    </div>
+                  </div>
+              </div>
+           </div> 
+        </section>
 
-      <!-- Nav Bar -->
+        <section class="servicos" id="servicos">
+            <div class="container">
+                <div class="row">
 
-      <nav class="navbar navbar-expand-lg navbar-dark">
+                    <div class="col-12 text-center mb-5">
+                        <span class="hint-tittle"><b>Serviços</b></span>
+                        <h1 class="tittle">
+                            <b>Como são nossos serviços?</b>
+                        </h1>
+                    </div>
 
-        <img class="EasyMenu-index" src="./images/LogoEasyMenu.png">
+                    <div class="col-4 mb-5">
+                        <div class="card-icon text-center">
+                            <img src="./img/pedido-online.png" width="150">
+                        </div>
+                        <div class="card-text text-center mt-3">
+                            <p><b>Fácil de usar</b></p>
+                            <span>
+                                Formas simples de organizar seu cardápio.
+                            </span>
+                        </div>
+                    </div>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
-          aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+                    <div class="col-4 mb-5">
+                        <div class="card-icon text-center">
+                            <img src="./img/mapa-e-localizacao.png" width="150">
+                        </div>
+                        <div class="card-text text-center mt-3">
+                            <p><b>Tudo em um só lugar</b></p>
+                            <span>
+                                Controle todo menu e receba pedidos.
+                            </span>
+                        </div>
+                    </div>
 
-        <div class="collapse navbar-collapse navbarcss" id="navbarTogglerDemo01">
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="./Development EasyMenu/login.html">Entrar</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./Development EasyMenu/register.html">Registrar</a>
-            </li>
-          </ul>
-        </div>
+                    <div class="col-4 mb-5">
+                        <div class="card-icon text-center">
+                            <img src="./img/avaliacao.png" width="250">
+                        </div>
+                        <div class="card-text text-center mt-3">
+                            <p><b>Eficácia garantida</b></p>
+                            <span>
+                                Melhor satisfação para o cliente.
+                            </span>
+                        </div>
+                    </div>
 
-      </nav>
+                </div>
+            </div>            
+        </section>
 
+        <section class="cardapio" id="cardapio">
+            <div class="container">
+                <div class="row">
+        
+                    <div class="col-12 text-center mb-5">
+                        <span class="hint-tittle"><b>Cardápio</b></span>
+                        <h1 class="tittle">
+                            <b>Conheça o nosso cardápio</b>
+                        </h1>
+                    </div>
 
+                    <div class="col-12 container-menu d-flex flex-wrap">
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-hamburger"></i>&nbsp; Burgers
+                        </a>
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-pizza-slice"></i>&nbsp; Pizzas
+                        </a>
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-drumstick-bite"></i>&nbsp; Porção
+                        </a>
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-bacon"></i>&nbsp; Churrasco
+                        </a>
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-cocktail"></i>&nbsp; Bebidas
+                        </a>
+                        <a class="btn btn-menu btn-sm mr-3">
+                            <i class="fas fa-ice-cream"></i>&nbsp; Sobremesas
+                        </a>
+                    </div>
+                    
 
-      <!-- Title -->
+                    <div class="col-12">
+                        <div class="row" id="itenscardapio">
 
-      <div class="row">
-        <div class="col-lg-6">
-          <h2 class="h1c">Seu cardápio completo e dinâmico</h2>
-        </div>
-      </div>
+                            <div class="col-3">
+                                <div class="card card-item">
+                                    <div class="img-produto">
+                                        <img src="./img/cardapio/burguers/burger-au-poivre-kit-4-pack.3ca0e39b02db753304cd185638dad518.jpg"/>
+                                    </div>
+                                    <p class="tittle-produto text-center mt-4">
+                                        <b>Nome</b>
+                                    </p>
+                                    <p class="price-produto text-center">
+                                        <b>R$ 29,90</b>
+                                    </p>
+                                    <div class="add-carrinho">
+                                        <span class="btn-menos"><i class="fas fa-minus"></i></span>
+                                        <span class="add-numero-itens">0</span>
+                                        <span class="btn-mais"><i class="fas fa-plus"></i></span>
+                                        <span class="btn btn-add"><i class="fas fa-shopping-bag"></i></span>
+                                    </div>
+                                </div>
+                            </div>
 
-    </div>
+                        </div>
+                    </div>
 
-  </section>
+                    <div class="col-12 text-center">
+                        <a class="btn btn-white btn-sm">
+                            Ver mais
+                        </a>
+                    </div>
+        
+                </div>
+            </div>
+        </section>
 
+        <section class="depoimentos" id="depoimentos">
+            <div class="container">
+                <div class="row">
 
-  <!-- Features -->
+                    <div class="col-5 text-center">
+                        <div class="card-depoimentos"></div>
+                        <div class="d-flex img-banner">
+                            <img src="./img/pizzas.png"/>
+                        </div>
+                    </div>
 
-  <section id="features">
+                    <div class="col-7">
+                        <span class="hint-tittle"><b>Depoimentos</b></span>
+                        <h1 class="tittle">
+                            <b>O que dizem sobre nós?</b>
+                        </h1>
+                        <div class="mb-5">
 
-    <div class="row">
-      <div class="feature-box col-lg-4">
-        <h3>Fácil de usar.</h3>
-        <p>Formas simples de organizar seu cardápio.</p>
-      </div>
+                            <div class="depoimento" id="depoimento-1">
+                                <div class="container-dados-depoimento">
+                                    <div class="imagem-depoimento"></div>
+                                    <div class="">
+                                        <p class="nome-depoimento"><b>Fernando Vasconcelos</b></p>
+                                        <p class="nota-depoimento">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half-alt"></i>&nbsp; <span>4.5</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <p class="texto-depoimento">
+                                    <i class="fas fa-quote-left"></i>
+                                    <span>
+                                        Muito bom, recomendo demais! comida muito bem feita pelo chef, 
+                                        atendimento dentro dos parâmetros e boa comunicação com o cliente.
+                                    </span>
+                                    <i class="fas fa-quote-right"></i>
+                                </p>
+                            </div>
 
-      <div class="feature-box col-lg-4">
-        <h3>Tudo em um só lugar</h3>
-        <p>Controle todo menu e receba pedidos.</p>
-      </div>
+                            <div class="depoimento hidden" id="depoimento-2">
+                                <div class="container-dados-depoimento">
+                                    <div class="imagem-depoimento"></div>
+                                    <div class="">
+                                        <p class="nome-depoimento"><b>Ana Beatriz</b></p>
+                                        <p class="nota-depoimento">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>&nbsp; <span>5.0</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <p class="texto-depoimento">
+                                    <i class="fas fa-quote-left"></i>
+                                    <span>
+                                        Um jantar perfeito do começo ao fim. Comida, experiência, serviço...foi tão maravilhoso que fomos dois dias seguidos - fato inédito para mim em uma viagem.
+                                    </span>
+                                    <i class="fas fa-quote-right"></i>
+                                </p>
+                            </div>
 
-      <div class="feature-box col-lg-4">
-        <h3>Eficácia garantida.</h3>
-        <p>Melhor satisfação para o cliente.</p>
-      </div>
-    </div>
-  </section>
+                            <div class="depoimento hidden" id="depoimento-3">
+                                <div class="container-dados-depoimento">
+                                    <div class="imagem-depoimento"></div>
+                                    <div class="">
+                                        <p class="nome-depoimento"><b>João Guilherme</b></p>
+                                        <p class="nota-depoimento">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="far fa-star"></i>&nbsp; <span>4.0</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <p class="texto-depoimento">
+                                    <i class="fas fa-quote-left"></i>
+                                    <span>
+                                        A comida estava excelente e o serviço gentil nos surpreendeu!
+                                        Dica: reserve umas 3 horas para ter uma experiência melhor.
+                                    </span>
+                                    <i class="fas fa-quote-right"></i>
+                                </p>
+                            </div>
 
+                        </div>
 
-  <!-- Depoimentos -->
+                        <a class="btn btn-sm btn-white btn-social mr-3 active">1</a>
+                        <a class="btn btn-sm btn-white btn-social mr-3">2</a>
+                        <a class="btn btn-sm btn-white btn-social">3</a>
 
-  <div class="depoimentos">
-    <section>
+                    </div>
 
-      <h2>Isabella de Azevedo</h2>
-      <img class="person1" src="./images/person1.jpeg" alt="person1">
-      <em>São Paulo, Brasil</em>
-      <h4 class="depoimentos-text1">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
+                </div>
+            </div>
+        </section>
 
-      <br>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-3 container-logo-footer">
+                        <img class="logo-footer" src="./img/logo.jpg" />
+                    </div>
+                    <div class="col-6 container-texto-footer">
+                        <p class="mb-0">
+                            <b>Coyright</b> &copy; <a class="text-light" href="/index.html">EasyMenu</a> 2023 Todos os direitos reservados.
+                        </p>
+                    </div>
+                    <div class="col-3 container-redes-footer">
+                        <a class="btn btn-sm btn-white btn-social mr-3">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a class="btn btn-sm btn-white btn-social mr-3">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a class="btn btn-sm btn-white btn-social mr-3">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                    </div>
 
-      <h2>Lucas Fernando</h2>
-      <img class="person2" src="./images/person2.jpeg" alt="person2">
-      <em>Minas Gerais, Brasil</em>
-      <h4 class="depoimentos-text2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
+                </div>
+            </div>
+        </footer>
 
-    </section>
-  </div>
-
-  <br>
-
-  <!-- Call to Action -->
-
-  <div class="cta">
-    <section class="log">
-
-      <h3>Tenha acesso agora mesmo!</h3>
-      <div>
-        <a href="./Development EasyMenu/login.html"><button class="btnlog">Entrar</button></a>
-        <a href="./Development EasyMenu/register.html"><button class="btnlog">Registrar</button></a>
-      </div>
-
-    </section>
-  </div>
-
-
-  <!-- Footer -->
-
-  <footer class="bg-light text-center text-lg-start">
-
-    <!-- Copyright -->
-    <div class="text-center p-3" id="footer">
-      Copyright <a class="text-light" href="/index.html">EasyMenu</a> © 2023 Todos os direitos reservados.
-  </div>
-
-  </footer>
-
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
-    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-    crossorigin="anonymous"></script>
-</body>
+        
+        <script type="text/javascript" src=".js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src=".js/modernizr-3.5.0.min.js"></script>
+        <script type="text/javascript" src=".js/bootstrap.min.js"></script>
+        <script type="text/javascript" src=".js/popper.min.js"></script>
+    
+    </body>
 
 </html>
