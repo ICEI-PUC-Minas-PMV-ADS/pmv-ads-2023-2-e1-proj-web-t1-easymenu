@@ -2,7 +2,7 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados.
 
-###Tela Inicial do Sistema
+##Tela Inicial do Sistema
 
 Essa tela vai representar de forma objetiva o funcionamento do sistema de cardápio online
 
@@ -10,7 +10,34 @@ Exemplo da tela inicial:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2c9e2cfa-eb1b-4cc6-9462-f2bda62555cd)
 
-Figura 1 - Tela da pagina inicial do sistema
+#### Requisito atendido
+
+RF-: O sistema deve ter uma interface de apresentação do mesmo.
+
+
+#### Artefatos da funcionalidade
+
+●indexhtml
+
+●main.css
+
+●index.js
+
+
+#### Estrutura de Dados
+
+[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Esta tela irá apresentar de forma objetiva como funciona o sitema, o que ele pretende entregar e qual o feedback recebido por quem usa.
+
+
+#### Responsável
+Talysson Moraes Lourenço de Oliveira
 
 
 ### Tela de login e cadastro
