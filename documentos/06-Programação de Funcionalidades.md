@@ -2,7 +2,7 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados.
 
-##Tela Inicial do Sistema
+###Tela Inicial do Sistema
 
 Essa tela vai representar de forma objetiva o funcionamento do sistema de cardápio online
 
