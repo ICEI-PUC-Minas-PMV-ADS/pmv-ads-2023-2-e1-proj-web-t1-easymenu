@@ -3,8 +3,7 @@
 
 ## User flow
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/6926549b-2bb9-4495-942d-8a49bbac3200)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/3929663c-2760-4d47-a142-12cf0cd75990)
 
 
 ## Protótipo
@@ -42,7 +41,8 @@ Rodapé - apresenta informações sobre os direitos autorais.
 <hr>    
 <h3>Tela - Página de Login</h3>
     
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2164949d-8bb8-4984-8eb8-18ee219dad7f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/edab0bc4-2266-41ca-b9c6-b451392f593b)
+
 
 <figure> 
     <figcaption><p>Figura 3 - Tela da pagina de loginn</p>

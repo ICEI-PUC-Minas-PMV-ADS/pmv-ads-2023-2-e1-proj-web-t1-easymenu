@@ -35,38 +35,107 @@ margin: 5px;
 width: 400px;
 
 }
-textarea{
-    display:inline;
-    padding: 5px;
-    margin: 5px;
+.nomedoproduto{
+    display:flex;
+    padding: 8px;
+    margin: 8px;
     width: 800px;
-    height: 180px;
+    height: 23px;
     border: #fff;
     margin-top: 5px;
     resize: none;
-     
+    text-align: left; 
+    justify-content: left;
+
+}
+.nomedoproduto:hover{
+    background-color: #c58e5792;
+    transition: 1s;
+}
+.descricao{
+    display:flex;
+    padding: 5px;
+    margin: 5px;
+    width: 800px;
+    height: 60px;
+    border: black;
+    margin-top: -20px;
+    resize: none; 
+    text-align: left;
+    justify-content: left; 
+    border-color: black;
+    
+    
+}
+.descricao:hover{
+background-color: #c58e5792;
+transition: 1s;
+}
+.preco{
+    display:flex;
+    padding: 5px;
+    margin: 8px;
+    width: 200px;
+    height: 40px;
+    border: #fff;
+    margin-top: 5px;
+    resize: none; 
+    margin-top: -40px; 
+    z-index: 5;
+}
+.preco:hover{
+    background-color: #c58e5792;
+    transition: 1s;
+
+
+
 }
 
 .excluir{
-    display: block;
+    display:flex;
     background-color: #FF8F1C;
     border-radius: 50px;
     width: 450px;
     height: 60px;
     color: #4D2C09;
-    border: #FF8F1C;
+    border-color: #FF8F1C;
     align-items: center;
     justify-content: center;
     text-align: center;
     font-weight: 800;
     font-style: italic;
     font-size: xx-large;
-    margin-right: 30px;
+    margin-right: 100px; 
+    margin-left: 600px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: #FF8F1C;
+}
+.alterar{
+    background-color: #FF8F1C;
+    color: #4d2c09;
+    display: block;
+    border-radius: 50px;
+    width: 450px;
+    height: 60px;
+    border: #FF8F1C;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 60px;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-size: xx-large;
+    justify-content: space-around;
+    
+   
+
 
 }
 
-#botões {
-    display: block;
+.botoes{
+    display: flex;
     background-color: #FF8F1C;
     border-radius: 50px;
     width: 450px;
@@ -76,8 +145,10 @@ textarea{
     font-weight: 800;
     color: #4D2C09;
     font-size: xx-large;
-    margin-top: -40px;
+    margin-top: -180px;
     font-style: italic;
+    justify-content: center;
+
     
 }
 #footer {

@@ -1,6 +1,44 @@
-# Programação de Funcionalidades
+### Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+Implementação da aplicação descritas por meio dos requisitos codificados.
+
+#### Tela Inicial
+
+Essa tela vai representar de forma objetiva o funcionamento do sistema de cardápio online
+
+Exemplo da tela inicial:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/2c9e2cfa-eb1b-4cc6-9462-f2bda62555cd)
+
+#### Requisito atendido
+
+RF-: O sistema deve ter uma interface de apresentação do mesmo.
+
+
+#### Artefatos da funcionalidade
+
+●indexhtml
+
+●main.css
+
+●index.js
+
+
+#### Estrutura de Dados
+
+[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Esta tela irá apresentar de forma objetiva como funciona o sitema, o que ele pretende entregar e qual o feedback recebido por quem usa.
+
+
+#### Responsável
+Talysson Moraes Lourenço de Oliveira
+
 
 ### Tela de login e cadastro
 
@@ -20,12 +58,11 @@ Exemplo da tela de cadastro:
 
 #### Requisito atendido
 
-RF-: O site deve permitir ao usuário cadastrar uma conta e logar na mesma.
-
+| RF-04 |A aplicação deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes
 
 #### Artefatos da funcionalidade
 
-●lginhtml
+●login.html
 
 ●login.css
 
@@ -62,7 +99,7 @@ Exemplo da tela de pedidos e avaliação:
 
 #### Requisito atendido
 
-RF-: O site deve pemitir a visualização dos produtos pedidos e avaliar o estabelecimento.
+RF-03	A aplicação deve exibir uma comanda do que já foi consumido pelo cliente e o valor total dos pedidos
 
 
 #### Artefatos da funcionalidade
@@ -90,5 +127,186 @@ Ao clicar em “Registre-se” abaixo aos dados a serem inseridos para login, te
 #### Responsável
 Naiana Mendonça Coelho
 
+### Tela do produto
 
 
+O acesso a tela de pedidos poderá ser feito atráves da opção de "selecionar pedido" no cardápio. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de pedidos e avaliação:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/4386341d-579f-4690-ad62-cdd664c47321)
+
+
+#### Requisito atendido
+
+| RF-01 |A aplicação deverá possibilitar o acréscimo ou alteração de itens do produto pelo cliente
+
+#### Artefatos da funcionalidade
+
+●produto.html
+
+●produto.css
+
+●produto.js
+
+
+#### Estrutura de Dados
+
+[produto.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/login/login.css)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no cardápio, a seleção do produto poderá ser feito atráves da opção de menu "selecionar produto".
+
+
+#### Responsável
+Naiana Mendonça Coelho
+
+
+### Tela - Edição de produto no cardápio do gerente
+
+O acesso a tela de edição de produto é feita através do cardápio do gerente 
+
+Exemplo da tela de login:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144950035/ea62a947-3aed-4824-848e-4fde38d69d23)
+
+
+#### Requisito atendido
+
+RF-02: No acesso do administrador, deverá ter a possibilidade do mesmo editar, excluir e incluir a qualquer momento que desejar, produtos ou categorias do menu
+
+#### Artefatos da funcionalidade
+
+●edicaotela.html
+
+●edicaotela.css
+
+●edicaotela.js
+
+#### Estrutura de Dados
+
+[edicaotela.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/Fernanda-A-Martins/codigo-fonte/Tela%20edi%C3%A7%C3%A3o/edicaotela.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+No acesso do administrador ao escolher a categoria cardápio ele vai escolher algum produto que queira fazer alguma alteração, vai clicar em editar produto, sendo possível editar a foto do produto, alterar descrição ou excluir produto
+
+
+#### Responsável
+
+Fernanda Alice Martins Soares
+
+### Tela de visualização de pedido e personalização do cliente pela equipe da cozinha.
+
+O acesso a tela de visualização de pedido e personalização do cliente poderá ser feito atráves da opção de "Login" e caso o usuário da equipe da cozinha não tenha cadastro poderá ser feito o cadastro através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de visualização de pedido e personalização do cliente pela equipe da cozinha: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144256546/b617bc23-eb0c-46d4-b4dd-6a1f9aedeb29)
+
+#### Requisito atendido
+
+RF 09: A aplicação deverá detalhar as personalizações feitas nos pedidos, uma vez quando enviados a cozinha.
+
+
+#### Artefatos da funcionalidade
+
+●cozinha.html
+
+●cozinha.css
+
+●cozinha.js
+
+
+#### Estrutura de Dados
+
+[cozinha.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/Cozinha-Tela1/cozinha.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no canto superior da tela de login poderá ser feito atráves da opção de menu "Login".
+Uma vez logado o usuário da equipe da cozinha terá acesso as informações de pedido e personalização feitos pelo cliente durante a realização de seu pedido.
+
+
+#### Responsável
+João Victor Braga Zacarias
+
+### Tela de consumo e forma de pagamento do cliente pela caixa.
+
+O acesso a tela de consumo e forma de pagamento do cliente poderá ser feito atráves da opção de "Login" e caso o usuário da equipe caixa não tenha cadastro poderá ser feito o cadastro através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de visualização de pedido e personalização do cliente pela equipe de caixa: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144256546/0d94b1fd-6902-4b8d-b44a-6c898604d8d4)
+
+
+#### Requisito atendido
+
+RF 06: A aplicação deve permitir a conferência dos itens consumidos por cada mesa e valores pelo caixa.
+RF 11: A aplicação deverá permitir selecionar o modo de pagamento realizado por cada mesa
+
+
+#### Artefatos da funcionalidade
+
+●index.html
+
+●index.css
+
+●index.js
+
+
+#### Estrutura de Dados
+
+[index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/tree/main/codigo-fonte/Cozinha-Tela2)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar no canto superior da tela de login poderá ser feito atráves da opção de menu "Login".
+Uma vez logado o usuário da equipe de caixa terá acesso as informações de pedido e formas de pagamentos feitos pelo cliente durante a realização de seu pedido.
+
+
+#### Responsável
+João Victor Braga Zacarias
+
+### Tela - Visualização de avaliações dos clientes do gerente
+
+O acesso a tela de visualização das avaliações dos clientes, é feito através do sistema do gerente
+
+Exemplo da tela de login:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/18361ff0-03c8-40f9-a865-069b7294debf)
+
+
+
+#### Artefatos da funcionalidade
+
+●avaliacao.html
+
+●avaliacao.css
+
+●avaliacao.js
+
+#### Estrutura de Dados
+
+[avaliacao.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/b0701941e2835225fbdd68d396a0d5814dc9b125/codigo-fonte/avaliacao.html/avaliacao.html)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+No acesso do administrador para analisar as avaliações dos clientes, ele deverá clicar no botão "Avaliações", que se encontra no cabeçalho, sendo direcionado para a página desejada.
+
+
+#### Responsável
+
+Amanda Paula Oliveira Silva
