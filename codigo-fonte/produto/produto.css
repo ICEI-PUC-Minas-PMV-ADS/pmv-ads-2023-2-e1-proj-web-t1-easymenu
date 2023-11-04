@@ -47,10 +47,7 @@ body {
 
 
 main {
-    display: flexbox;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    padding: 10px;
     color: #4D2C09
 }
 
@@ -77,16 +74,6 @@ main {
 
 }
 
-.personalizacao {
-    background-color: #f7a655;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px 60px;
-    text-align: left;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 15px 150px
-}
-
 .btn {
     background-color: white;
     color: #4D2C09;
@@ -104,4 +91,9 @@ main {
     box-sizing: border-box;
     font-size: 14px;
     border: 1px solid #ccc;
+}
+
+.mb-3 {
+    width: 95%;
+    margin:auto;
 }
