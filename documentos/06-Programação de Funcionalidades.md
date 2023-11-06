@@ -17,7 +17,7 @@ RF-: O sistema deve ter uma interface de apresentação do mesmo.
 
 #### Artefatos da funcionalidade
 
-●indexhtml
+●index.html
 
 ●main.css
 
@@ -102,9 +102,9 @@ RF-	A aplicação deve exibir um cardápio dinâmico com fotos.
 
 ●cardapio.html
 
-●menu.css
+●cardapio.css
 
-●.js
+●cardapio.js
 
 
 #### Estrutura de Dados
