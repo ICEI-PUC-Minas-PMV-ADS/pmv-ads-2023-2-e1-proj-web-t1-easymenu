@@ -2,7 +2,7 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-### Tela de login e cadastro
+## Tela de login e cadastro
 
 
 O acesso a tela de login poderá ser feito atráves da opção de "Login" e a de cadastro poderá ser feito através da opção "Registre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
