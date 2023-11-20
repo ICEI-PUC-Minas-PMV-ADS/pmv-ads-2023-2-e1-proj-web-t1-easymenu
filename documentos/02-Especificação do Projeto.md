@@ -21,8 +21,13 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema, adeptos a inovação desejam a disponibilidade de um cardápio que possibilite edição de seus itens de modo prático e a diminuição na dependência de funcionários para funcionamento de seu ambiente.  </td>
+<td width="600px"> Os gerentes e proprietários seriam responsáveis por configurar e gerenciar o sistema, adeptos a inovação desejam a disponibilidade de um cardápio que possibilite edição de seus itens de modo prático.</td>
 </tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> Aplicação que permita acréscimo, exclusão e alteração dos produtos disponilbizados no estabelecimento. </td>
+</tr>
+
 </tbody>
 </table>
 
