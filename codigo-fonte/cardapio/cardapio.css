@@ -59,6 +59,15 @@
     color:#4D2C09 
 }
 
+.name-food {
+font-size: 28px;
+text-align: center;
+font-family: "Roboto", sans-serif;
+color:#4D2C09;
+font-weight: bold;
+text-transform: uppercase;
+}
+
 .itens-cardapio {
     width: 50%;
     margin-top: 2rem;
@@ -132,4 +141,17 @@
 .navbarNav {
 color:#4D2C09;
 font-size: medium;
+}
+
+#logoutBtn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4D2C09;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
 }

@@ -25,6 +25,7 @@
 
         <div class="header">
             <img src=../imagens/logo.jpg />
+            <button id="logoutBtn" onclick="logout()"> <b>Sair</b></button>
         </div>
     </header>
     <main>
@@ -52,184 +53,23 @@
             </nav>
 
             <!-- Conteúdo do Cardápio -->
+
+            <div class=name-food> Hamburguers</div>
             <div class="itens-cardapio" id="hamburguer">
-                <div class="hamb1">
-                    <img src="../imagens/hamb1.png" alt="hamb1">
-                    <div class="info">
-                        <h3><b>Hamburguer Simples</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, salada e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb2">
-                    <img src="../imagens/hamb2.jpg" alt="hamb2">
-                    <div class="info">
-                        <h3><b>Cheesebacon</b></h3>
-                        <h4>Pão da sua escolha, hamburguers de 180g de carne bovina, bacon e queijo da sua escolha
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb3">
-                    <img src="../imagens/hamb3.jpg" alt="hamb3">
-                    <div class="info">
-                        <h3><b>Cheddar Duplo</b></h3>
-                        <h4>Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de
-                            cheddar<span>R$35,00</span></h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb4">
-                    <img src="../imagens/hamb4.jpg" alt="hamb4">
-                    <div class="info">
-                        <h3><b>Hamburger de Shimeji</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, shimeji e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
+                <!-- Items will be dynamically added here using JavaScript -->
             </div>
-
+            <div class=name-food> Entradas</div>
             <div class="itens-cardapio" id="entradas">
-                <div class="hamb1">
-                    <img src="../imagens/hamb1.png" alt="hamb1">
-                    <div class="info">
-                        <h3><b>Hamburguer Simples</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, salada e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb2">
-                    <img src="../imagens/hamb2.jpg" alt="hamb2">
-                    <div class="info">
-                        <h3><b>Cheesebacon</b></h3>
-                        <h4>Pão da sua escolha, hamburguers de 180g de carne bovina, bacon e queijo da sua escolha
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-
-                </div>
-                <div class="hamb3">
-                    <img src="../imagens/hamb3.jpg" alt="hamb3">
-                    <div class="info">
-                        <h3><b>Cheddar Duplo</b></h3>
-                        <h4>Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de
-                            cheddar<span>R$35,00</span></h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb4">
-                    <img src="../imagens/hamb4.jpg" alt="hamb4">
-                    <div class="info">
-                        <h3><b>Hamburger de Shimeji</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, shimeji e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
+                <!-- Items will be dynamically added here using JavaScript -->
             </div>
+            <div class=name-food> Sobremesas</div>
             <div class="itens-cardapio" id="sobremesas">
-                <div class="hamb1">
-                    <img src="../imagens/hamb1.png" alt="hamb1">
-                    <div class="info">
-                        <h3><b>Hamburguer Simples</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, salada e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb2">
-                    <img src="../imagens/hamb2.jpg" alt="hamb2">
-                    <div class="info">
-                        <h3><b>Cheesebacon</b></h3>
-                        <h4>Pão da sua escolha, hamburguers de 180g de carne bovina, bacon e queijo da sua escolha
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-
-                </div>
-                <div class="hamb3">
-                    <img src="../imagens/hamb3.jpg" alt="hamb3">
-                    <div class="info">
-                        <h3><b>Cheddar Duplo</b></h3>
-                        <h4>Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de
-                            cheddar<span>R$35,00</span></h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-
-                </div>
-                <div class="hamb4">
-                    <img src="../imagens/hamb4.jpg" alt="hamb4">
-                    <div class="info">
-                        <h3><b>Hamburger de Shimeji</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, shimeji e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
+                <!-- Items will be dynamically added here using JavaScript -->
             </div>
+            <div class=name-food> Bebidas</div>
             <div class="itens-cardapio" id="bebidas">
-                <div class="hamb1">
-                    <img src="../imagens/hamb1.png" alt="hamb1">
-                    <div class="info">
-                        <h3><b>Hamburguer Simples</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, salada e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
-                <div class="hamb2">
-                    <img src="../imagens/hamb2.jpg" alt="hamb2">
-                    <div class="info">
-                        <h3><b>Cheesebacon</b></h3>
-                        <h4>Pão da sua escolha, hamburguers de 180g de carne bovina, bacon e queijo da sua
-                            escolha
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-
-                </div>
-                <div class="hamb3">
-                    <img src="../imagens/hamb3.jpg" alt="hamb3">
-                    <div class="info">
-                        <h3><b>Cheddar Duplo</b></h3>
-                        <h4>Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de
-                            cheddar<span>R$35,00</span></h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-
-                </div>
-                <div class="hamb4">
-                    <img src="../imagens/hamb4.jpg" alt="hamb4">
-                    <div class="info">
-                        <h3><b>Hamburger de Shimeji</b></h3>
-                        <h4> Pão da sua escolha, hamburguers de 180g de carne bovina, shimeji e queijo da sua
-                            escolha.
-                            <span>R$35,00</span>
-                        </h4>
-                        <button class="alterar">Alterar</button>
-                    </div>
-                </div>
+                <!-- Items will be dynamically added here using JavaScript -->
+            </div>
         </section>
     </main>
 
