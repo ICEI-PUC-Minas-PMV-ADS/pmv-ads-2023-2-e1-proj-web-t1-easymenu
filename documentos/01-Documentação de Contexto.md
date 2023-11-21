@@ -1,7 +1,7 @@
 # Introdução
 
 No cenário em constante evolução da indústria de restaurantes, o advento da tecnologia transformou fundamentalmente a maneira como os consumidores interagem com os restaurantes, bem como desempenham um papel crucial na melhoria da experiência do cliente e na eficiência operacional. 
-Com a era digital, os clientes buscam cada vez mais a comodidade e praticidade para fazerem seus pedidos, especialmente em ambientes onde a personalização desempenha um papel importante, como em restaurantes que oferecem opções de ingredientes, adições e substituições. Com esse aumento de demanda, surge a necessidade de um sistema inovador e intuitivo que permita aos clientes explorarem cardápios de restaurantes de forma digital e personalizarem seus pedidos de maneira flexível.
+Com a era digital, os clientes buscam cada vez mais a comodidade e praticidade para fazerem seus pedidos, especialmente em ambientes onde a personalização desempenha um papel importante, como em restaurantes que oferecem opções de ingredientes, adições e substituições. Com esse aumento de demanda, surge a necessidade de um sistema inovador e intuitivo que permita aos clientes explorarem cardápios de restaurantes de forma digital.
 
 
 ## Problema
@@ -16,8 +16,7 @@ Os objetivos específicos do projeto são:
  
 - Facilitar a visualização de cardápios detalhados e possibilitar a personalização de pedidos de acordo com as preferências dos clientes, e que efetuem transações de forma conveniente; 
 - Aprimorar a eficiência operacional dos restaurantes, reduzindo os erros de comunicação entre os clientes e os atendentes; 
-- Facilitar o acesso dos clientes a promoções, oferecer suporte para esclarecimento de dúvidas e receber feedbacks;
-- Auxiliar os restaurantes a ajustar seus cardápios com base nas preferências dos clientes, utilizando informações do histórico de pedidos e de consumo;
+- Facilitar o acesso dos clientes a promoções;
 - Criar uma plataforma de fácil acesso, acessível por meio de dispositivos diversos, como computadores, celulares e tablets, garantindo uma experiência agradável e consistente independentemente do dispositivo utilizado.
 
 
