@@ -140,7 +140,7 @@ a.navbar-brand {
 }
 
 .btn-sm {
-    padding: 9px 15px!important;
+    padding: 25px 100px!important;
     border-radius: 15px!important;
     font-size: 18px!important;
     height: 60px;
@@ -148,6 +148,15 @@ a.navbar-brand {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.btn-sm.active, .btn-sm:hover {
+    background-color: var(--color-black);
+    border-radius: 20px;
+}
+
+.centralizar {
+    margin: auto;
 }
 
 .card-banner {
@@ -198,11 +207,14 @@ a.navbar-brand {
     border-radius: 20px;
     padding: 15px 25px;
     font-size: 20px;
+    margin-top: 50px;
+    justify-content: center;
     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.9);
 }
 
 .btn-white.active, .btn-white:hover {
     background-color: var(--color-black);
+    border-radius: 20px;
 }
 
 .btn-icon {
@@ -224,8 +236,8 @@ a.navbar-brand {
 }
 
 .servicos {
-    padding-top: 100px;
-    padding-bottom: 150px;
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
 
 
@@ -258,6 +270,12 @@ a.navbar-brand {
 
 .container-menu {
     margin-bottom: 40px;
+    
+}
+
+.container-menu a {
+        margin-right: 10px; 
+        margin-bottom: 10px; 
 }
 
 .btn-menu {
@@ -354,6 +372,163 @@ a.navbar-brand {
 .card-item:hover .price-produto {
     color: var(--color-black-heavy)!important;
     margin-top: 20px;
+}
+
+.modal-full {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 50px;
+    background: var(--color-white);
+    z-index: 9990;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.m-header {
+    padding-bottom: 20px;
+}
+
+.m-body {
+    flex: 1;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.m-body::-webkit-scrollbar {
+    width: 6px;
+    color: transparent;
+}
+
+.m-body::-webkit-scrollbar-thumb {
+    background-color: var(--color-white);
+}
+
+.m-body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.etapas {
+    display: flex;
+}
+
+.etapa {
+    width: 35px;
+    height: 35px;
+    background-color: var(--color-white);
+    border-radius: 50px;
+    box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.9);
+    color: var(--color-black-heavy);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.etapa::before {
+    content: '';
+    width: 20px;
+    background-color: var(--color-separate);
+    position: absolute;
+    height: 2px;
+    margin-left: 55px;
+}
+
+.etapa:last-child::before {
+    content: none;
+}
+
+.etapa.active, .etapa.active::before {
+    background-color: var(--color-primary);
+}
+
+.tittle-carrinho {
+    font-size: 20px;
+    color:var(--color-black-heavy);
+}
+
+.modal-full .item-carrinho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--color-separate);
+}
+
+.modal-full .item-carrinho:last-child {
+    border-bottom: none;
+}
+
+.modal-full .img-produto img {
+    width: 100px;
+    border-radius: 11px;
+}
+
+.modal-full .tittle-produto {
+    color: var(--color-black-heavy);
+    font-size: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+.modal-full .price-produto {
+    color: var(--color-primary);
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.modal-full .dados-produto {
+    flex: 1;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.modal-full .add-carrinho {
+    display: flex;
+    text-align: center;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-remove {
+    border: 2px solid var(--color-red);
+    font-size: 16px;
+    padding: 4px 10px;
+    border-radius: 10px;
+    color: var(--color-white);
+    background-color: var(--color-red);
+    margin-left: 15px;
+}
+
+
+/* MODAL - TOTAL CARRINHO */
+
+.container-total {
+    padding-top: 20px;
+    border-top: 1px solid var(--color-separate);
+}
+
+.container-total .texto-entrega {
+    color: var(--color-separate);
+}
+
+.container-total .texto-total {
+    color: var(--color-black-heavy);
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.container-total .valor-total {
+    color: var(--color-primary);
+    font-size: 24px;
 }
 
 
