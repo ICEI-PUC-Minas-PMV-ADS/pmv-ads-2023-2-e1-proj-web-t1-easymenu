@@ -12,8 +12,9 @@ integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG
 
     <!-- CSS -->
     <link rel="stylesheet" href="edicaotela.css">
-    <link rel="stylesheet" href="oi.jpg">
-  
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="edicaotela.js">
+    <script type="text/javascript" defer src="../Tela edição/edicaotela.js"></script>
 
     <!-- O QUE PRECISA SER DESENVOLVIDO -->
 <header>
@@ -22,22 +23,30 @@ integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG
     </div>
         </header>
 
-<div>
-  <img id="easymenu" src="../imagens/HAMBURGUER_SHUTTER-1024x683.jpg" alt=" foto do hamburguer">
+    <script type="text/javascript" defer src="../Tela edição/edicaotela.js"></script>
+<body>
+    
+<div id="areaimagem" function="imagem()" >
+    <img src="localStorage.getItem('imageURL')" alt="imagem">
+  
 </div>
        <div class="titulo">
     Descrição 
        </div>
-        <textarea name="nomeproduto" class="nomedoproduto" autofocus required>Nome do produto:</textarea>
+        <textarea name="descricao" id="nomedoproduto" autofocus placeholder="Nome do produto:" required></textarea>
         <br>
-        <textarea name="descricao" class="descricao" autofocus required> Descrição do produto:</textarea><br><br>
-        <textarea name="preco" class="preco" autofocus required> Preço:</textarea>
-            <button class="excluir">Alterar descrição</button><br>
-            <button class="alterar">Excluir item</button>
+        <textarea name="descricao" id="descricao" autofocus required placeholder="Descrição do produto"></textarea><br><br>
+        <textarea name="descricao" id="preco" autofocus required placeholder="Preço:"></textarea>
+            <button class="salvar"  onclick='clicou()'>Salvar alterações</button><br>
+            <button id="alterar" onclick='deleteItem()' >Excluir item</button>
        
        <br><br><br><br><br>
-        <button class="botoes"> Editar foto </button>
-    
+       <label for="arquivo">Editar foto</label>
+       <input type="file" name="arquivo" id="arquivo" accept="image/*" onchange="exibirImagem()" >
+</body>   
+     
+              
+
 
     <!-- RODAPÉ DA PÁGINA -->
 
@@ -48,7 +57,8 @@ integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG
     <div class="text-center p-3" id="footer">
         Copyright <a class="text-light" href="/index.html">EasyMenu</a> © 2023 Todos os direitos reservados.
     </div>
-
+   
+  
 </body>
 
 </html>
