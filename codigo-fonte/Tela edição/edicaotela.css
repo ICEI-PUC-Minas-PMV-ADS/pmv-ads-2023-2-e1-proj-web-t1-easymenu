@@ -12,17 +12,14 @@
     align-items: center;
     height: 150px;
 }
-img{
-    width: auto;
-    max-height: 50%;}
-#easymenu {
+#areaimagem{
     display: flex;
     width: 450px;
     height: 300px;
     float: left;
-    
+    background-color: gray;
+    margin-top: 20px;
 }
-
 .titulo{
     display:flex;
 float:center;
@@ -35,7 +32,7 @@ margin: 5px;
 width: 400px;
 
 }
-.nomedoproduto{
+#nomedoproduto{
     display:flex;
     padding: 8px;
     margin: 8px;
@@ -46,13 +43,14 @@ width: 400px;
     resize: none;
     text-align: left; 
     justify-content: left;
+    
 
 }
-.nomedoproduto:hover{
+#nomedoproduto:hover{
     background-color: #c58e5792;
     transition: 1s;
 }
-.descricao{
+#descricao{
     display:flex;
     padding: 5px;
     margin: 5px;
@@ -63,35 +61,30 @@ width: 400px;
     resize: none; 
     text-align: left;
     justify-content: left; 
-    border-color: black;
-    
-    
+      
 }
-.descricao:hover{
+#descricao:hover{
 background-color: #c58e5792;
 transition: 1s;
 }
-.preco{
+#preco{
     display:flex;
     padding: 5px;
     margin: 8px;
     width: 200px;
     height: 40px;
-    border: #fff;
+   border-color: #fff;
     margin-top: 5px;
     resize: none; 
     margin-top: -40px; 
     z-index: 5;
 }
-.preco:hover{
+#preco:hover{
     background-color: #c58e5792;
     transition: 1s;
-
-
-
 }
 
-.excluir{
+.salvar{
     display:flex;
     background-color: #FF8F1C;
     border-radius: 50px;
@@ -111,7 +104,7 @@ transition: 1s;
     margin-bottom: 10px;
     border: #FF8F1C;
 }
-.alterar{
+#alterar{
     background-color: #FF8F1C;
     color: #4d2c09;
     display: block;
@@ -128,29 +121,30 @@ transition: 1s;
     font-weight: 800;
     font-size: xx-large;
     justify-content: space-around;
-    
-   
-
 
 }
-
-.botoes{
-    display: flex;
-    background-color: #FF8F1C;
-    border-radius: 50px;
+input[type='file']{
+    display: none;
+}
+label{
     width: 450px;
     height: 60px;
-    text-align: center;
-    border: #FF8F1C;
-    font-weight: 800;
-    color: #4D2C09;
-    font-size: xx-large;
+    background-color: #FF8F1C;
+    font-size: 100px;
+    display: flex;
     margin-top: -180px;
     font-style: italic;
     justify-content: center;
-
+    cursor: pointer;
+    border: #FF8F1C;
+    font-weight: 900;
+    color: #4D2C09;
+    font-size: xx-large;
+    border-radius: 50px;
+    
     
 }
+
 #footer {
     min-height: 5vh;
     background-color: #FF8F1C;
