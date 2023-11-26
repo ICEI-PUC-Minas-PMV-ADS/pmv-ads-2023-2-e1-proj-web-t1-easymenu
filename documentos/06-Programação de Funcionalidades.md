@@ -85,13 +85,13 @@ Ao clicar em “Registre-se” abaixo aos dados a serem inseridos para login, te
 #### Responsável
 Naiana Mendonça Coelho
 
-### Tela de cardápio
+### Tela de cardápio 
 
 O acesso a tela de cardápio poderá ser feito pelo cliente ou pelo gerente a depender da finalidade. As estruturas de dados foram baseados em HTML, CSS e JS.
 
 Exemplo da tela de cardápio:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/b7d012db-c43a-4141-9aec-bd566d3643c9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/2347dfae-6111-45ee-a973-4a3da967a8a9)
 
 #### Requisito atendido
 
@@ -100,11 +100,11 @@ Exemplo da tela de cardápio:
 
 #### Artefatos da funcionalidade
 
-●cardapio.html
+●cardapio1.html
 
-●cardapio.css
+●cardapio1.css
 
-●cardapio.js
+●cardapio1.js
 
 
 #### Estrutura de Dados
@@ -126,8 +126,8 @@ Talysson Moraes Lourenço de Oliveira
 
 O acesso a tela de edição de produto é feita através do cardápio do gerente 
 
-Exemplo da tela de login:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144950035/ea62a947-3aed-4824-848e-4fde38d69d23)
+Exemplo da tela de edição:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d0d641a4-7c6f-435b-990f-25eedba825c7)
 
 
 #### Requisito atendido
@@ -136,11 +136,11 @@ Exemplo da tela de login:
 
 #### Artefatos da funcionalidade
 
-●edicaotela.html
+●cardapio.html
 
-●edicaotela.css
+●cardapio.css
 
-●edicaotela.js
+●cardapio.js
 
 #### Estrutura de Dados
 
