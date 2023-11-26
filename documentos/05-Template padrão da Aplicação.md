@@ -4,10 +4,11 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 
 As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
 
-Cores: RGB: #FF8E1C, #4D2C09 e white;
-Font-family: "Roboto", sans-serif.
-Font-size: 15px e 28px.
-
+<ul>
+<li>Cores: RGB: #FF8E1C, #4D2C09 e white;</li>
+<li>Font-family: "Roboto", sans-serif.</li>
+<li></li>Font-size: 15px e 28px.</li>
+</ul>
 
 <h3><b>Tela de template padrão</b></h3>
 <p>Exibe a tela padrão das demais telas</p>
@@ -20,6 +21,6 @@ Font-size: 15px e 28px.
 <p>Para a criação do logotipo do site foi utilizada a cor maerrom e amarela, pois nos remeteu ao estulo de cardápio.</p>
 
 <figure> 
-  <img src="(file:///C:/Users/Samsung/Downloads/logo.jpg)">
+  <img src="![logo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/fd127743-c70d-4e35-881d-835afd86b876)">
     <figcaption>Figura 3 - Logotipo da aplicação easymenu
 </figure> 
