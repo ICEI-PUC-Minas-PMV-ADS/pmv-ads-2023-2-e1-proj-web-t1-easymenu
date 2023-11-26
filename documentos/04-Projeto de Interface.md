@@ -2,8 +2,7 @@
 # Projeto de Interface
 
 ## User flow
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/3929663c-2760-4d47-a142-12cf0cd75990)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/74f56486-2ae4-468f-96c2-316f28aaa185)
 
 
 ## Protótipo
@@ -63,7 +62,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/05ef6334-24e2-44b3-b215-6ca10db1b3b5)
 
 <figure> 
-    <figcaption><p>Figura 5 - Tela da pagina de adição tem item no cardápio</p>
+    <figcaption><p>Figura 5 - Tela da pagina de adição do item no cardápio</p>
 </figure>
 
 <hr>
