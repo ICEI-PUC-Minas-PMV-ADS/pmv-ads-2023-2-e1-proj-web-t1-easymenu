@@ -37,7 +37,6 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cliente            | editar, retirar ou acrescer itens do prato| Adaptar ao meu gosto ou restrição alimentar|
 | Cliente            |Um menu de fácil uso, e com objetividade nos pratos ofertados|Ter uma maior facilidade no entendimento dos produtos|
 | Cliente            |Visualizar imagens reais dos produtos oferecidos| Para fazer uma escolha mais assertiva e trazer uma ideia mais real do produto|
 | Proprietário       | Um cardápio digital passível de edição dos itens e interativo|Para alterar os produtos disponíveis|
@@ -58,7 +57,7 @@ O propósito do projeto é definido por meio dos requisitos funcionais que descr
 | RF-02 |No acesso do administrador, deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, produtos no menu|Alta|
 | RF-03 |A aplicação deve permitir o cadastro, login e logout no sistema pelo administrador.|Média|
 | RF-04 |A aplicação deve permitir que seja possível incorporar imagens aos produtos|Média|
-| RF-05 |A aplicação deve permitir a visualização de cada produto com suas possíveis personalizações|Média|
+| RF-05 |A aplicação deve permitir a visualização de cada produto|Média|
 
 
 
