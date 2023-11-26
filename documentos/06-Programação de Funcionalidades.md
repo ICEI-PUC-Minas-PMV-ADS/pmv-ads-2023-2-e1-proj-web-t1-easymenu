@@ -109,25 +109,30 @@ Exemplo da tela de cardápio:
 
 #### Estrutura de Dados
 
-[cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/Development%20EasyMenu/cardapio.html)
+[cardapio1.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/main/codigo-fonte/cardapio1/cardapio1.html)
 
 
 #### Instruções de acesso
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-A tela terá um menu de navegação por categorias de alimentos que ao clicar irá exibir os cardápio disponíveis com opção de selecionar o desejado e adicionar ao carrinho..
+A tela terá um menu de navegação por categorias de alimentos que ao clicar irá exibir os produtos disponíveis no cardápio.
 
 
 #### Responsável
-Talysson Moraes Lourenço de Oliveira
+João Victor Zacarias
 
-### Tela - Edição de produto no cardápio do gerente
 
-O acesso a tela de edição de produto é feita através do cardápio do gerente 
+### Tela - Cardápio do Gerente 
+
+O acesso a tela de edição de produto é feita através do login no sistema 
 
 Exemplo da tela de edição:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d0d641a4-7c6f-435b-990f-25eedba825c7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/644ca2d3-dd52-464b-881b-01cf8cc4a792)
+
+
+Exemplo da tela de adicionar:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/fb701436-8508-4004-a2eb-07769fe470a2)
 
 
 #### Requisito atendido
@@ -144,7 +149,46 @@ Exemplo da tela de edição:
 
 #### Estrutura de Dados
 
-[edicaotela.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/Fernanda-A-Martins/codigo-fonte/Tela%20edi%C3%A7%C3%A3o/edicaotela.html)
+[cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/naiana_mendonca/codigo-fonte/cardapio/cardapio.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+No acesso do administrador ele vai colocar seu login e senha e dará entrada no sistema do gerente onde poderá visualizar todos os itens disponíveis.
+
+#### Responsável
+
+Naiana Medonça Coelho
+
+### Tela - Edição de produto no cardápio do gerente
+
+O acesso a tela de edição de produto é feita através do cardápio do gerente 
+
+Exemplo da tela de edição:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/d0d641a4-7c6f-435b-990f-25eedba825c7)
+
+Exemplo da tela de adicionar:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/fb701436-8508-4004-a2eb-07769fe470a2)
+
+
+#### Requisito atendido
+
+| RF-02 |: No acesso do administrador, deverá ter a possibilidade do mesmo editar, excluir e incluir a qualquer momento que desejar, produtos do menu.
+
+#### Artefatos da funcionalidade
+
+●cardapio.html
+
+●cardapio.css
+
+●cardapio.js
+
+#### Estrutura de Dados
+
+[cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/naiana_mendonca/codigo-fonte/cardapio/cardapio.html)
+
 
 #### Instruções de acesso
 
