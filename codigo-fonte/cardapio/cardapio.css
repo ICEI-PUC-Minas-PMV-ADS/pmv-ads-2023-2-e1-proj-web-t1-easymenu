@@ -198,6 +198,14 @@ text-transform: uppercase;
     color:white;
 }
 
+.dropdown {
+    height: 40px;
+    width: 100%;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 6px;
+}
+
 .close:hover,
 .close:focus {
     color: #ff0000;

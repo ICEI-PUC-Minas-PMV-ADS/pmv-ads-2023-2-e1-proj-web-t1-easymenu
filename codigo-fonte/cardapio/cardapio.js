@@ -1,6 +1,7 @@
 const menuData = {
   hamburguer: [
     {
+      id: "1",
       name: "Hamburguer Simples",
       image: "../imagens/hamb1.png",
       description: "Pão da sua escolha, hamburguers de 180g de carne bovina, salada e queijo da sua escolha.",
@@ -8,6 +9,7 @@ const menuData = {
     },
 
     {
+      id: "2",
       name: "Cheesebacon",
       image: "../imagens/hamb2.jpg",
       description: "Pão da sua escolha, hamburguers de 180g de carne bovina, bacon e queijo da sua escolha.",
@@ -15,6 +17,7 @@ const menuData = {
     },
 
     {
+      id: "3",
       name: "Cheesebacon",
       image: "../imagens/hamb3.jpg",
       description: "Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de cheddar.",
@@ -25,6 +28,7 @@ const menuData = {
 
   entradas: [
     {
+      id: "4",
       name: "Batata Frita",
       image: "../imagens/batatafrita.jpg",
       description: "330g de batata frita.",
@@ -35,6 +39,7 @@ const menuData = {
 
   sobremesas: [
     {
+      id: "5",
       name: "Cheesecake",
       image: "../imagens/istockphoto-179640507-612x612.jpg",
       description: "Cheesecake com calda de sua preferência.",
@@ -45,6 +50,7 @@ const menuData = {
 
   bebidas: [
     {
+      id: "6",
       name: "Coca Cola",
       image: "../imagens/1984-refrigerante-coca-cola-lata-350ml.jpg",
       description: "Refrigerante em lata",
@@ -54,37 +60,80 @@ const menuData = {
   ],
 };
 
+const categorias = {
+  categorias: [
+    {
+      id: "hamburguer",
+      name: "Hamburguer",
+    },
+    {
+      id: "entradas",
+       name: "Entradas", 
+     },
+    {
+     id: "sobremesas",
+      name: "Sobremesas", 
+    },
+    {
+      id: "bebidas",
+       name: "Bebidas", 
+     },
+  ],
+};
 
+function createMenu() {
+  var cardapios = localStorage.getItem("cardapios"); 
+  if (cardapios != null) {
+    cardapios = JSON.parse(cardapios);
+  } else {
+    cardapios = menuData;    
+    localStorage.setItem("cardapios", JSON.stringify(menuData));
+  }
+  
+  const categorias = ["hamburguer", "entradas", "sobremesas", "bebidas"];
+  
+  categorias.forEach(category => {
+    const menuContainer = document.getElementById(category);
+    const items = cardapios[category];
 
-function createMenu(category) {
-  const menuContainer = document.getElementById(category);
-  const items = menuData[category];
-
-  items.forEach(item => {
-    const menuItem = document.createElement("div");
-    menuItem.classList.add("hamb-item");
-
-    menuItem.innerHTML = `
-        <img src="${item.image}" alt="${item.name}">
-        <div class="info">
+    items.forEach(item => {
+      const itemId = document.getElementById(item.id);
+      if (itemId != null) {
+        itemId.innerHTML = `
+          <img src="${item.image}" alt="${item.name}">
+          <div class="info">
+          <h5>Código: <b>${item.id}</b></h5>  
           <h3><b>${item.name}</b></h3>
-          <h4>${item.description} <span>${item.price}</span></h4>
-          <button class="alterar" data-bs-toggle="modal" data-bs-target="#editModal" onclick="openAlterarModal('${item.name}', '${item.description}', '${item.price}')">Alterar</button>
-      `;
+            <h4>${item.description} <span>${item.price}</span></h4>
+            <button class="alterar" data-bs-toggle="modal" data-bs-target="#editModal" onclick="openAlterarModal('${item.id}', '${item.name}', '${item.description}', '${item.price}')">Alterar</button>
+            `;
 
-    menuContainer.appendChild(menuItem);
+      } else {
+        const menuItem = document.createElement("div");
+        menuItem.classList.add("hamb-item");
+        menuItem.id = item.id;
+
+        menuItem.innerHTML = `
+          <img src="${item.image}" alt="${item.name}">
+          <div class="info">
+          <h5>Código: <b>${item.id}</b></h5>  
+          <h3><b>${item.name}</b></h3>
+            <h4>${item.description} <span>${item.price}</span></h4>
+            <button class="alterar" data-bs-toggle="modal" data-bs-target="#editModal" onclick="openAlterarModal('${item.id}', '${item.name}', '${item.description}', '${item.price}')">Alterar</button>
+            `;
+
+        menuContainer.appendChild(menuItem);
+      }
+      
+    });
   });
 }
 
-// Add click event listener to all "Alterar" buttons
-const alterarButtons = document.querySelectorAll('.alterar');
-alterarButtons.forEach(function (button, index) {
-  button.addEventListener('click', function () {
-    openModalWithData(index);
-  });
-});
-// Function to open the Alterar Modal with item details
-function openAlterarModal(name, description, price) {
+// Call the function for each menu category
+createMenu();
+
+function openAlterarModal(id, name, description, price) {
+  const modalId = document.getElementById('modalId');
   const modalTitle = document.getElementById('modalTitle');
   const modalName = document.getElementById('modalName');
   const modalDescription = document.getElementById('modalDescription');
@@ -94,73 +143,70 @@ function openAlterarModal(name, description, price) {
   modalName.value = name;
   modalDescription.value = description;
   modalPrice.value = price;
+  modalId.value = id;
 }
 
-
-function openModalWithData(index) {
-  // Retrieve item data based on the index or ID of the item
-  const itemData = getMenuData()[index];
-  // Populate the modal with the item data
-  document.getElementById('modalTitle').innerText = itemData.name;
-  document.getElementById('modalName').value = itemData.name;
-  document.getElementById('modalDescription').value = itemData.description;
-  document.getElementById('modalPrice').value = itemData.price;
-
-  // Add click event listener to the "Salvar" button in the modal
-  document.getElementById('modalSaveButton').addEventListener('click', function () {
-    saveChanges(index);
-  });
-
-  // Add click event listener to the "Excluir" button in the modal
-  document.getElementById('modalDeleteButton').addEventListener('click', function () {
-    deleteItem(index);
-  });
-
-  // Show the modal
-  $('#editModal').modal('show');
-}
-
-function saveChanges(index) {
+function saveChanges() {
   // Get the updated data from the modal
+  const modalId = document.getElementById('modalId').value;
   const updatedName = document.getElementById('modalName').value;
   const updatedDescription = document.getElementById('modalDescription').value;
   const updatedPrice = document.getElementById('modalPrice').value;
 
-  // Update the item in the menu data
-  const menuData = getMenuData();
-  menuData[index].name = updatedName;
-  menuData[index].description = updatedDescription;
-  menuData[index].price = updatedPrice;
+  var cardapios = localStorage.getItem("cardapios"); 
+  if (cardapios != null) {
+    cardapios = JSON.parse(cardapios);
+  }
+  
+  const menu = ["hamburguer", "entradas", "sobremesas", "bebidas"];
+  
+  menu.forEach(category => {
+    const items = cardapios[category];
+    items.forEach(item => {
+      if(item.id == modalId) {
+        item.name = updatedName;
+        item.description = updatedDescription;
+        item.price = updatedPrice;
+      }
+    });
+  });
 
   // Save the updated menu data to localStorage
-  localStorage.setItem('menuData', JSON.stringify(menuData));
+  localStorage.setItem("cardapios", JSON.stringify(cardapios));
+  createMenu();
+  closeModalEdit();
+}
 
-  // Update the card in the UI (replace this with your own logic)
-  updateCardInUI(index);
-
-  // Close the modal
+function closeModalEdit() {
   $('#editModal').modal('hide');
 }
 
-function deleteItem(index) {
+function deleteItem() {
   // Remove the item from the menu data
-  const menuData = getMenuData();
-  menuData.splice(index, 1);
+  const modalId = document.getElementById('modalId').value;
+  var cardapios = localStorage.getItem("cardapios"); 
+  if (cardapios != null) {
+    cardapios = JSON.parse(cardapios);
+  }
+  
+  const menu = ["hamburguer", "entradas", "sobremesas", "bebidas"];
+  
+  menu.forEach(category => {
+    const itens = cardapios[category];
+    const itensFilter = itens.filter(function(i) {return i.id != modalId;});
+    cardapios[category] = itensFilter;
+  });
+
+  const itemId = document.getElementById(modalId);
+  if (itemId != null) {
+    itemId.remove();
+  }
 
   // Save the updated menu data to localStorage
-  localStorage.setItem('menuData', JSON.stringify(menuData));
-
-  // Remove the card from the UI (replace this with your own logic)
-  removeCardFromUI(index);
+  localStorage.setItem("cardapios", JSON.stringify(cardapios));
 
   // Close the modal
-  $('#editModal').modal('hide');
-}
-
-function getMenuData() {
-  // Retrieve menu data from localStorage
-  const storedData = localStorage.getItem('menuData');
-  return storedData ? JSON.parse(storedData) : [];
+  closeModalEdit();
 }
 
 function updateCardInUI(index) {
@@ -181,12 +227,6 @@ function alterarItem(itemName) {
   console.log(`Item ${itemName} altered`);
 }
 
-// Call the function for each menu category
-createMenu("hamburguer");
-createMenu("entradas");
-createMenu("sobremesas");
-createMenu("bebidas");
-
 let show = true;
 const menuContent = document.querySelector('.content');
 const menuToggle = menuContent.querySelector('.menu-toggle');
@@ -205,9 +245,6 @@ menuToggle.addEventListener('click', () => {
 document.addEventListener('DOMContentLoaded', function () {
   var sections = document.querySelectorAll('.itens-cardapio');
   var navItems = document.querySelectorAll('.navbar-nav .nav-item');
-
-
-
 
   function isInViewport(element) {
     var rect = element.getBoundingClientRect();
@@ -239,11 +276,25 @@ function logout() {
   window.location.href = "/codigo-fonte/login/login.html";
 };
 
+function closeModalNovo() {
+  $('#novoItemModal').modal('hide');
+}
+
+function initDropdown() {
+  let dropdown = document.getElementById("dropdown");
+  const cat = categorias["categorias"];
+  cat.forEach(f => {
+    let option = document.createElement("option");
+    option.text = f.name;
+    option.value = f.id;
+    dropdown.add(option);
+  });
+}
 
 document.getElementById('novoItemForm').addEventListener('submit', function (event) {
   event.preventDefault();
   adicionarNovoItem();
-  $('#novoItemModal').modal('hide'); // Fecha o modal após adicionar
+  closeModalNovo();
 });
 
 function adicionarNovoItem() {
@@ -251,21 +302,38 @@ function adicionarNovoItem() {
   const imagem = document.getElementById('imagem').value;
   const descricao = document.getElementById('descricao').value;
   const preco = document.getElementById('preco').value;
+  const categoriaSelected = document.querySelector('#dropdown').selectedIndex;
+  const categor = categorias["categorias"];
+  const categoria = categor[categoriaSelected];
 
   // Recupera os dados existentes do localStorage
-  const menuData = getMenuData();
+  var cardapios = localStorage.getItem("cardapios"); 
+  if (cardapios != null) {
+    cardapios = JSON.parse(cardapios);
+  }
 
-  // Adiciona o novo item
-  menuData.push({
-    name: nome,
-    image: imagem,
-    description: descricao,
-    price: preco
+  const ids = [];
+  categor.forEach(cat => {
+    cardapios[cat.id].forEach(card => {
+      ids.push(Number(card.id));
+    })
   });
+  const id = ids.reduce((a, b) => Math.max(a, b), -Infinity);
+  const newId = + id + 1;
 
-  // Salva os dados atualizados no localStorage
-  localStorage.setItem('menuData', JSON.stringify(menuData));
+  var dados = {
+      id: newId,
+      name: nome,
+      image: imagem,
+      description: descricao,
+      price: preco
+  };
+
+  cardapios[categoria.id].push(dados);
+  
+  // Save the updated menu data to localStorage
+  localStorage.setItem("cardapios", JSON.stringify(cardapios));
 
   // Atualiza o cardápio na interface
-  createMenu("hamburguer"); // Substitua "hamburguer" pela categoria desejada
+  createMenu(); // Substitua "hamburguer" pela categoria desejada
 }
