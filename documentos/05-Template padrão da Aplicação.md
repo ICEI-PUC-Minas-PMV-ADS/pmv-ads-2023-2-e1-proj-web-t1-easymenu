@@ -7,7 +7,7 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 <ul>
 <li>Cores: RGB: #FF8E1C, #4D2C09 e white;</li>
 <li>Font-family: "Roboto", sans-serif.</li>
-<li></li>Font-size: 15px e 28px.</li>
+<li>Font-size: 15px e 28px.</li>
 </ul>
 
 <h3><b>Tela de template padrão</b></h3>
