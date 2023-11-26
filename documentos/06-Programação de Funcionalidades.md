@@ -127,12 +127,8 @@ João Victor Zacarias
 
 O acesso a tela de edição de produto é feita através do login no sistema 
 
-Exemplo da tela de edição:
+Exemplo da tela de cardápio do gerente:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/644ca2d3-dd52-464b-881b-01cf8cc4a792)
-
-
-Exemplo da tela de adicionar:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/fb701436-8508-4004-a2eb-07769fe470a2)
 
 
 #### Requisito atendido
