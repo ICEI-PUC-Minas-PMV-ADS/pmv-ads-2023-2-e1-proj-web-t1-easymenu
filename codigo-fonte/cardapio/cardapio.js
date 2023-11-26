@@ -18,7 +18,7 @@ const menuData = {
 
     {
       id: "3",
-      name: "Cheesebacon",
+      name: "CheeseBurgerBacon",
       image: "../imagens/hamb3.jpg",
       description: "Pão da sua escolha, 2 hamburguers de 180g de carne bovina e duas fatias de cheddar.",
       price: "R$35,00"

@@ -134,7 +134,7 @@ a.navbar-brand {
 }
 
 .btn-sm {
-    padding: 9px 15px!important;
+    padding: 25px 100px!important;
     border-radius: 15px!important;
     font-size: 18px!important;
     height: 60px;
@@ -142,6 +142,15 @@ a.navbar-brand {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.btn-sm.active, .btn-sm:hover {
+    background-color: var(--color-black);
+    border-radius: 20px;
+}
+
+.centralizar {
+    margin: auto;
 }
 
 .card-banner {
