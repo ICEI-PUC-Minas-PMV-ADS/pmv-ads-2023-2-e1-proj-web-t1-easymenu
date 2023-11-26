@@ -53,7 +53,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>CT-02: Verificar o login de usuários</td>
   <td>
    <ul>
-   <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
+   <li>RF-03: A aplicação dever permitir o cadastro, o login e o logout no sistema pelo administrador.</li>
    </ul>
   </td>
   <td>Verificar se o login está sendo feito corretamente. </td>
