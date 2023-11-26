@@ -1,11 +1,11 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
+Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
+
+|Caso de Teste    | CT 1 - Registro na aplicação |
+|:Rgistro|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
