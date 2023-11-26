@@ -53,14 +53,14 @@
 } 
 .cardapio h2 {
     font-size: 40px;
-    padding: 50px 0;
+    padding: 40px 20px 10px;
     text-align: center;
     font-family: "Roboto", sans-serif;
-    color:#4D2C09 
+    color:#4D2C09;
 }
 
 .name-food {
-font-size: 28px;
+font-size: 18px;
 text-align: center;
 font-family: "Roboto", sans-serif;
 color:#4D2C09;
@@ -138,10 +138,14 @@ text-transform: uppercase;
     color: rgb(255, 255, 255);
 }
 
-.navbarNav {
+.navbar-expand-lg {
 color:#4D2C09;
 font-size: medium;
+font-weight: bold;
+font-size: 21px;
+text-transform: uppercase;
 }
+
 
 #logoutBtn {
     position: fixed;
@@ -154,4 +158,83 @@ font-size: medium;
     color: #fff;
     border: none;
     border-radius: 5px;
+}
+
+
+/* Modal Styles */
+.modal-content {
+    background-color: #FF8E1C;
+    color:#4D2C09;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.modal-header {
+    border-bottom: 1px solid #FF8E1C;
+    padding: 15px;
+    text-align: center;
+}
+
+.modal-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.modal-body {
+    padding: 15px;
+}
+
+.modal-footer {
+    border-top: 1px solid #FF8E1C;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Close button style */
+.close {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #4D2C09;
+    color:white;
+}
+
+.dropdown {
+    height: 40px;
+    width: 100%;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 6px;
+}
+
+.close:hover,
+.close:focus {
+    color: #ff0000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Optional: Add a fade animation to the modal */
+.fade {
+    opacity: 0;
+    transition: opacity 0.2s ease-out;
+}
+
+.fade.show {
+    opacity: 1;
+}
+
+.btn-adicionar {
+    background-color: #28a745; /* Cor de fundo verde */
+    color: #fff; /* Cor do texto branco */
+    border: none; /* Sem borda */
+    padding: 10px 20px; /* Preenchimento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 5px; /* Borda arredondada */
+    transition: background-color 0.3s; /* Transição suave da cor de fundo */
+}
+
+/* Estilo para o botão Adicionar ao passar o mouse */
+.btn-adicionar:hover {
+    background-color: #218838; /* Cor de fundo verde mais escura */
 }
