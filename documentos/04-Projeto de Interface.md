@@ -54,7 +54,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/9c7c0eb3-7dc2-4ea6-8994-be993313fd1e)
 
 <figure> 
-    <figcaption><p>Figura 7 - Tela da pagina de edição do cardápio</p>
+    <figcaption><p>Figura 4 - Tela da pagina de edição do cardápio</p>
 </figure>
 
 <hr>
@@ -63,7 +63,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/05ef6334-24e2-44b3-b215-6ca10db1b3b5)
 
 <figure> 
-    <figcaption><p>Figura 7 - Tela da pagina de adição tem item no cardápio</p>
+    <figcaption><p>Figura 5 - Tela da pagina de adição tem item no cardápio</p>
 </figure>
 
 <hr>
@@ -72,7 +72,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/2204938d-8bb4-4a79-9e6b-2787c612aea6)
 
 <figure> 
-    <figcaption><p>Figura 8 - Tela da pagina de edição de item no cardápio</p>
+    <figcaption><p>Figura 6 - Tela da pagina de edição de item no cardápio</p>
 </figure>
 
 <hr>
@@ -81,7 +81,7 @@ Rodapé - apresenta informações sobre os direitos autorais.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144157407/d8ff3ceb-3828-4bb4-b256-d2572d460de5)
 
 <figure> 
-    <figcaption><p>Figura 12 - Tela da pagina do cardápio para os clientes</p>
+    <figcaption><p>Figura 7 - Tela da pagina do cardápio para os clientes</p>
 </figure>
 
 
