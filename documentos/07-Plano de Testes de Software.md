@@ -21,12 +21,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>
    <ul>
     <li>RF-01:	A aplicação deverá permitir a visualização do menu pelo cliente.</li>
-   <li>RF-02:	No acesso do administrador deverá ter a possibilidade de o mesmo editar, acrescentar e excluir a qualquer momento que desejar, produtos no menu.</li>
-   <li>RF-03:	A aplicação deve permitir o cadastro, login e logout no sistema pelo administrador.</li>
-    <li>RF-05:	A aplicação deve permitir a visualização de cada produto.</li>
    </ul>
   </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
+  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas de login e cardápio corretamente.</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -56,17 +53,20 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <li>RF-03: A aplicação dever permitir o cadastro, o login e o logout no sistema pelo administrador.</li>
    </ul>
   </td>
-  <td>Verificar se o login está sendo feito corretamente. </td>
+  <td>Verificar se o registro, login e logout está sendo feito corretamente. </td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
     <li>Visualizar a página Home.</li>
-    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Clicar em "Cadastre-se", no Menu.</li>
+    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
+    <li>Visualizar a página Login.</li>
     <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil do administrador.</li>
    </ol>
    </td>
-  <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
+  <td>Deverá ser possível fazer o registro. Após o login, o usuário deverá ser redirecionado para a sua página de perfil. E por fim log out do perfil.</td>
   <td>Fernanda</td>
  </tr>
 
@@ -124,12 +124,11 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <ol>
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em "Cadastre-se", no Menu.</li>
-    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
-    <li>Visualizar a página Login.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-    <li>Visualizar a página Perfil do administrador.</li>
+    <li>Visualizar a página de cardápio.</li>
+    <li>Clicar em "adicionar", no Menu.</li>
+    <li>Preencher o formulário e clicar em “Adicionar”.</li>
+    <li>Visualizar a novo produto na pagina do menu.</li>
+    <li>Clicar em “ALTERAR”, altere as informações deseja e aperte salvar ou excluir o produto, se desejar excluir.</li>
    </ol>
    </td>
   <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
