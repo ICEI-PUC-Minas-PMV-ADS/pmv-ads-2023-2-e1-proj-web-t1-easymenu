@@ -58,7 +58,7 @@ Exemplo da tela de cadastro:
 
 #### Requisito atendido
 
-| RF-04 |A aplicação deve dispor de acessos com permissões diferentes, essas sejam administrador, cozinha e clientes
+| RF-03 |A aplicação deve permitir o cadastro, o login e o logout no sistema pelo administrador.
 
 #### Artefatos da funcionalidade
 
@@ -95,7 +95,7 @@ Exemplo da tela de cardápio:
 
 #### Requisito atendido
 
-RF-	A aplicação deve exibir um cardápio dinâmico com fotos.
+| RF-05 | A aplicação deve permitir a visualização de cada produto com suas possíveis visualizações.
 
 
 #### Artefatos da funcionalidade
@@ -132,7 +132,7 @@ Exemplo da tela de login:
 
 #### Requisito atendido
 
-RF-02: No acesso do administrador, deverá ter a possibilidade do mesmo editar, excluir e incluir a qualquer momento que desejar, produtos ou categorias do menu
+| RF-02 |: No acesso do administrador, deverá ter a possibilidade do mesmo editar, excluir e incluir a qualquer momento que desejar, produtos do menu.
 
 #### Artefatos da funcionalidade
 
