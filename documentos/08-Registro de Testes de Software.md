@@ -7,10 +7,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 1.CT-01: Verificar o funcionamento dos links da página Home
 
-Através da pagina inicial somos direcionados a tela de login para o gerente ou para o cardápio para visualização do cliente.
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/356ca473-f942-422d-852c-f502b5ad8f42
 
 
 Responsável: Tallyson
+Através da pagina inicial somos direcionados a tela de login para o gerente ou para o cardápio para visualização do cliente.
 
 2. CT-02: Verificar o login de usuários
 
