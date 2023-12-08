@@ -4,7 +4,7 @@
 
 1.Apresentação de slides
 [Apresentação slide Easy Menu 02.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/files/13620461/Apresentacao.slide.Easy.Menu.02.pdf)
-]
+
 
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
