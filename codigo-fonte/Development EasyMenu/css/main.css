@@ -55,7 +55,7 @@ a.navbar-brand {
     background-color: var(--color-primary);
     color: var(--color-white)!important;
     border-radius: 20px;
-    padding: 15px 25px;
+    padding: 15px 15px;
     font-size: 20px;
     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.9);
 }
@@ -65,7 +65,7 @@ a.navbar-brand {
 }
 
 .btn-icon {
-    padding-right: 75px;
+    padding-right: 10px;
 }
 
 .btn-icon .icon {
@@ -324,7 +324,7 @@ a.navbar-brand {
     margin-left: 15px;
 }
 
-.card-item:hover {
+/*.card-item:hover {
     background-color: var(--color-primary);
 }
 
@@ -339,7 +339,7 @@ a.navbar-brand {
 .card-item:hover .price-produto {
     color: var(--color-black-heavy)!important;
     margin-top: 20px;
-}
+} */
 
 .depoimentos {
     padding-top: 100px;

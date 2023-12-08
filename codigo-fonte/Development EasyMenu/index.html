@@ -33,7 +33,23 @@
                         <li class="nav-item">
                             <a href="#depoimentos" class="nav-link"><b>Depoimentos</b></a>
                         </li>
-                    </ul>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
+          aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div>
+            <ul>
+                <li class="btn btn-icon">
+                    <a class="btn btn-white" href="../login/login.html">Entrar</a>
+                </li>
+                <li class="btn btn-icon"> 
+                    <a class="btn btn-white" href="../login/login.html">Registrar</a> 
+                </li>
+            </ul>
+        </div>
+        
+        <!--</ul>
                     <a class="btn btn-white btn-icon" href="../cardapio1/cardapio1.html">
                         Cardápio <span class="icon">
                             <i class="fa fa-shopping-bag"></i>
@@ -41,7 +57,7 @@
                      </a>
                 </div>                        
              </nav>
-           </div>       
+           </div> -->     
         </section>
 
         <section class="banner" id="banner">
@@ -54,18 +70,18 @@
                             Fácil de usar, Tudo em um só lugar e eficiência garantida.
                         </p>
                         <div>
-                            <a class="btn btn-orange mt-4 mr-3" href="#cardapio">
+                            <a class="btn btn-orange mt-4 mr-3" href="../cardapio1/cardapio1.html">
                                 Ver Cardápio
                             </a>
-                            <a href="#" class="btn btn-white btn-icon-left mt-4">
+                            <a href="tel:+3137353325" class="btn btn-white btn-icon-left mt-4">
                                 <span class="icon-left">
                                     <i class="fa fa-phone"></i>
                                 </span>
-                                (31) 9 9813-2058
+                                (31) 3735-3325
                             </a>
                         </div>
                     </div>
-                        <a class="btn btn-sm btn-white btn-social mt-4 mr-3" href="">
+                        <a class="btn btn-sm btn-white btn-social mt-4 mr-3" href="https://wa.me/553137353325">
                             <i class="fab fa-whatsapp"></i>
                         </a>
                     </div>                    
@@ -153,17 +169,14 @@
                         <a id="menu-burgers" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('burgers')">
                             <i class="fas fa-hamburger"></i>&nbsp; Burgers
                         </a>
-                        <a id="menu-pizzas" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('pizzas')">
-                            <i class="fas fa-pizza-slice"></i>&nbsp; Pizzas
-                        </a>
                         <a id="menu-entradas" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('entradas')">
                             <i class="fas fa-drumstick-bite"></i>&nbsp; Entradas
                         </a>
-                        <a id="menu-bebidas" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('bebidas')">
-                            <i class="fas fa-cocktail"></i>&nbsp; Bebidas
-                        </a>
                         <a id="menu-sobremesas" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('sobremesas')">
                             <i class="fas fa-ice-cream"></i>&nbsp; Sobremesas
+                        </a>
+                        <a id="menu-bebidas" class="btn btn-menu btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('bebidas')">
+                            <i class="fas fa-cocktail"></i>&nbsp; Bebidas
                         </a>
                     </div>
                     
