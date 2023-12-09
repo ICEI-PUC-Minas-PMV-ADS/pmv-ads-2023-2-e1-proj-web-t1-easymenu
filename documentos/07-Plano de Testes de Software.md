@@ -136,4 +136,103 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-05: Verificar se é possível editar informações de cada item disponível no menu editável.
+.</td>
+  <td>
+   <ul>
+    <li>RF-02: No acesso do administrador deverá ter a possibilidade de o mesmo editar, ascrescentar e excluir a qualquer momento que desejar, produtos no menu.</li>
+   </ul>
+  </td>
+  <td>Verificar se a página edição do produto está apresentando as funcionalidade em questão. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de cardápio.</li>
+    <li>Clicar em "adicionar", no Menu.</li>
+    <li>Preencher o formulário e clicar em “Editar”.</li>
+    <li>Visualizar a novo produto na pagina do menu.</li>
+    <li>Clicar em “ALTERAR”, altere as informações deseja e aperte salvar ou excluir o produto, se desejar excluir.</li>
+   </ol>
+   </td>
+  <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
+  <td>Talysson</td>
+ </tr>
+</table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-06: Verificar se é possível adicionar informações de cada item disponível no menu editável.
+.</td>
+  <td>
+   <ul>
+    <li>RF-02: No acesso do administrador deverá ter a possibilidade de o mesmo editar, ascrescentar e excluir a qualquer momento que desejar, produtos no menu.</li>
+   </ul>
+  </td>
+  <td>Verificar se a página adição do produto está apresentando as funcionalidade em questão. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de cardápio.</li>
+    <li>Clicar em "adicionar", no Menu.</li>
+    <li>Preencher o formulário e clicar em “Adicionar”.</li>
+    <li>Visualizar a novo produto na pagina do menu.</li>
+    <li>Clicar em “ALTERAR”, altere as informações deseja e aperte salvar ou excluir o produto, se desejar excluir.</li>
+   </ol>
+   </td>
+  <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
+  <td>Fernanda</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+  <tr>
+  <td>CT-07: Verificar se é possível excluir informações de cada item disponível no menu editável.
+.</td>
+  <td>
+   <ul>
+    <li>RF-02: No acesso do administrador deverá ter a possibilidade de o mesmo editar, ascrescentar e excluir a qualquer momento que desejar, produtos no menu.</li>
+   </ul>
+  </td>
+  <td>Verificar se a página excluir produto está apresentando as funcionalidade em questão. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de cardápio.</li>
+    <li>Clicar em "excluir", no Menu.</li>
+    <li>Não visualizar o produto na página do menu.</li>
+    <li>Clicar em “ALTERAR”, altere as informações deseja e aperte salvar ou excluir o produto, se desejar excluir.</li>
+   </ol>
+   </td>
+  <td>As informações excluídas pelo usuário no momento da exclusão, não devem estar disponibilizadas na página Perfil.</td>
+  <td>João Victor</td>
+ </tr>
+</table>
