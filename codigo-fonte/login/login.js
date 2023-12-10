@@ -91,7 +91,7 @@ function realizarLogin() {
 
         if (usuarioEncontrado) {
             // Redirecionar para a página logada após o login bem-sucedido
-            window.location.href = "/codigo-fonte/cardapio/cardapio.html";
+            window.location.href = "../cardapio/cardapio.html";
         } else {
             showMessage("E-mail ou senha incorretos.", "#f44336");
         }
