@@ -273,7 +273,7 @@ function logout() {
   // Lógica para realizar logout, como limpar o token de autenticação, etc.
   alert("Você foi desconectado!");
   // Redirecionar para a página de login, se necessário
-  window.location.href = "/codigo-fonte/login/login.html";
+  window.location.href = "../login/login.html";
 };
 
 function closeModalNovo() {
