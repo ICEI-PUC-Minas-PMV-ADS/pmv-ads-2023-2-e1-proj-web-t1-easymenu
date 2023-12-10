@@ -147,6 +147,10 @@ Exemplo da tela de cardápio do gerente:
 
 [cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/naiana_mendonca/codigo-fonte/cardapio/cardapio.html)
 
+Estrutura de dados em jSON
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/7603462a-443d-4426-9adb-fc918771a777)
+
+
 
 #### Instruções de acesso
 
@@ -184,6 +188,10 @@ Exemplo da tela de adicionar:
 #### Estrutura de Dados
 
 [cardapio.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/blob/naiana_mendonca/codigo-fonte/cardapio/cardapio.html)
+
+
+Estrutura de dados em jSON
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/7603462a-443d-4426-9adb-fc918771a777)
 
 
 #### Instruções de acesso
