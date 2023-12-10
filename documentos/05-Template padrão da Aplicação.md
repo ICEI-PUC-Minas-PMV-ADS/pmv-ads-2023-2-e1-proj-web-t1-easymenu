@@ -19,9 +19,9 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 
 <p>Para a criação do logotipo do site foi utilizada a cor maerrom e amarela, pois nos remeteu ao estulo de cardápio.</p>
-
+<p></p>
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/144706915/fd127743-c70d-4e35-881d-835afd86b876">
-  
+  <p></p>
   <figcaption>Figura 3 - Logotipo da aplicação easymenu
 </figure> 
