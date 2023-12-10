@@ -36,8 +36,8 @@ O Sistema de Cardápios Personalizáveis para Restaurantes visa trazer inovaçã
 
 # Hospedagem
 
-*
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-easymenu/codigo-fonte/paginaInicial/index.html">aqui</a> para acessá-lo. 
+*A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-easymenu/codigo-fonte/paginaInicial/index.html">aqui</a> para acessá-lo. 
+
 # Código-Fonte
 
 * <a href="codigo-fonte/README.md">Código Fonte</a>
