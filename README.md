@@ -36,7 +36,7 @@ O Sistema de Cardápios Personalizáveis para Restaurantes visa trazer inovaçã
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+*[pPágina Inicial](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-easymenu/codigo-fonte/paginaInicial/index.html)
 
 # Código-Fonte
 
