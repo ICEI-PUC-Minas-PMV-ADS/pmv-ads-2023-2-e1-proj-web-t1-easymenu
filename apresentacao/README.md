@@ -19,6 +19,4 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu
 
 Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: [www.easymenu.com](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-easymenu/codigo-fonte/paginaInicial/index.html)
 
-<a href="Apresentação final - ADS - Projeto Web Front-End - Turma 5 - Eixo 1 !.pptx">PowerPoint da Apresentação
-
 
