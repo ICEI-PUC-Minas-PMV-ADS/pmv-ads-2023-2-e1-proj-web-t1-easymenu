@@ -12,27 +12,27 @@ Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organiz
 O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-easymenu/codigo-fonte/paginaInicial/index.html">aqui</a> para acessá-lo. 
 
 ### [0.1.0] - 03/09/2023.
-Adicionado
+<br>Adicionado:</br>
 Homepage: arquivos HTML, CSS, JS e imagens.
 
 ### [0.1.1] - 15/10/2023.
-Atualizado
+<br>Atualizado:</br>
 Homepage: arquivos HTML, CSS, JS e imagens.
-<br>Adicionado</br>
+<br>Adicionado:</br>
 Cadastro: arquivos HTML e CSS.
 Login: arquivos HTML e CSS. 
 
 ### [0.1.2] - 10/11/2023.
-Atualizado
+<br>Atualizado:</br>
 Homepage: arquivos HTML, CSS, JS e imagens.
 Cadastro: arquivos HTML, CSS e JS.
 Login: arquivos HTML, CSS e JS.
-Adicionado
+<br>Adicionado:</br>
 Perfil do gerente: arquivos HTML, CSS, JS e imagens.
 Cardápio: arquivos HTML, CSS, JS e imagens.
 
 ### [0.1.3] - 22/11/2023.
-Atualizado
+<br>Atualizado:</br>
 Homepage: arquivos HTML, CSS, JS e imagens.
 Cadastro: arquivos HTML, CSS e JS.
 Login: arquivos HTML, CSS e JS.
