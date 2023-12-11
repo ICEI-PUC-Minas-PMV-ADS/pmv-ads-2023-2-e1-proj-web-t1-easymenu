@@ -1,7 +1,5 @@
 # Apresentação do Projeto
 
-## Conjunto de Slides
-
 ### EasyMenu - Cardápio Descomplicado
 
 Um projeto criado para ajudar na inovação de todos os donos de restaurantes que desejam oferecer a melhor experiência para seus clientes e inovar o modelo tradicional do negocio de restaurantes!
