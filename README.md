@@ -1,6 +1,10 @@
 # EASY MENU
 
-<div class="center" ![LogoEasyMenu](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/08e4b048-bb63-4ae9-bfc1-92b67ee05994) /div>
+<div align="center">
+<img width="200px" height="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/08e4b048-bb63-4ae9-bfc1-92b67ee05994">
+</div>
+
+<div align="center">
 
 `TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
