@@ -18,7 +18,7 @@ Homepage: arquivos HTML, CSS, JS e imagens.
 ### [0.1.1] - 15/10/2023.
 Atualizado
 Homepage: arquivos HTML, CSS, JS e imagens.
-Adicionado
+<br>Adicionado</br>
 Cadastro: arquivos HTML e CSS.
 Login: arquivos HTML e CSS. 
 
