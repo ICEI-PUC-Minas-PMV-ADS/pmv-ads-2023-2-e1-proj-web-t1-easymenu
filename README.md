@@ -1,7 +1,7 @@
 # EASY MENU
 
 `TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
-
+![LogoEasyMenu](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-easymenu/assets/127908761/08e4b048-bb63-4ae9-bfc1-92b67ee05994)
 `PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT- END`
 
 `1º SEMESTRE`
@@ -45,3 +45,4 @@ O Sistema de Cardápios Personalizáveis para Restaurantes visa trazer inovaçã
 # Apresentação
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
+
